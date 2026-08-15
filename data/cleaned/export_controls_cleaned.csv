@@ -1,0 +1,35 @@
+control_id,date,year,month,imposing_country,target,policy_name,severity_score,description,is_us_action,is_china_action,is_netherlands_action,is_trump_1_0,is_biden,is_trump_2_0
+EC001,2018-08-01,2018,8,USA,ZTE,Entity List action,5,"ZTE banned then settled, $1.4B fine",1,0,0,1,0,0
+EC002,2019-05-15,2019,5,USA,Huawei,Huawei Entity List,9,Huawei + 70 affiliates banned,1,0,0,1,0,0
+EC003,2019-05-21,2019,5,USA,Huawei,TGL granted,3,90-day Temporary General License,1,0,0,1,0,0
+EC004,2020-05-15,2020,5,USA,Huawei,FDPR Direct Product Rule,9,Foreign Direct Product Rule blocks TSMC-Huawei,1,0,0,1,0,0
+EC005,2020-09-15,2020,9,USA,Huawei,FDPR expanded,8,Expanded FDPR cuts off Huawei from all chips,1,0,0,1,0,0
+EC006,2020-12-18,2020,12,USA,SMIC,Entity List addition,7,SMIC added with restricted EUV access,1,0,0,1,0,0
+EC007,2021-04-08,2021,4,USA,Phytium,Supercomputer EL,5,7 Chinese supercomputer firms added,1,0,0,0,1,0
+EC008,2022-08-09,2022,8,USA,CHIPS_Act,CHIPS Act signed,10,$52B for US chip manufacturing,1,0,0,0,1,0
+EC009,2022-08-31,2022,8,USA,NVIDIA_AMD,AI chip restrictions,8,A100/H100 export restrictions to China,1,0,0,0,1,0
+EC010,2022-10-07,2022,10,USA,BIS_China,Comprehensive controls,10,Sweeping export controls on advanced computing,1,0,0,0,1,0
+EC011,2022-12-15,2022,12,USA,YMTC_Entity,YMTC + 31 companies,8,"YMTC Entity List, '36 Chinese entities'",1,0,0,0,1,0
+EC012,2023-01-27,2023,1,USA,Netherlands_Japan,ASML/Tokyo Electron deal,9,NL/JP agree on chip equipment restrictions,1,0,0,0,1,0
+EC013,2023-03-09,2023,3,NLD,ASML,EUV restrictions,9,Dutch formalize ASML export rules,0,0,1,0,1,0
+EC014,2023-05-23,2023,5,CHN,Micron,Micron security review,6,China bans Micron from critical infrastructure,0,1,0,0,1,0
+EC015,2023-07-04,2023,7,CHN,Gallium_Germ,Export controls Ga/Ge,7,China restricts gallium/germanium exports,0,1,0,0,1,0
+EC016,2023-08-09,2023,8,USA,Outbound_Investment,Executive Order outbound,6,Restricting US investment in Chinese chip companies,1,0,0,0,1,0
+EC017,2023-10-17,2023,10,USA,BIS_update_2023,October 2023 rules update,9,"H100/H800 restrictions, new licensing",1,0,0,0,1,0
+EC018,2023-12-21,2023,12,CHN,Rare_Earths,Rare earth tech export ban,6,China bans REE processing tech exports,0,1,0,0,1,0
+EC019,2024-03-29,2024,3,USA,BIS_update_2024,Additional restrictions,7,AI chip rules tightened further,1,0,0,0,1,0
+EC020,2024-05-07,2024,5,USA,Huawei_License,Revokes Huawei licenses,6,Intel/Qualcomm Huawei licenses revoked,1,0,0,0,1,0
+EC021,2024-08-12,2024,8,CHN,Antimony,Antimony export controls,5,Critical minerals restrictions,0,1,0,0,1,0
+EC022,2024-09-05,2024,9,USA,Quantum_Semis,Quantum/EGaN restrictions,6,Bilateral with NL/DE/JP,1,0,0,0,1,0
+EC023,2024-12-02,2024,12,USA,December_2024_rules,Dec 2024 sweeping rules,9,"24 Chinese fab equip companies, HBM rules",1,0,0,0,1,0
+EC024,2024-12-04,2024,12,CHN,Ga_Ge_Sb_total,Total ban critical minerals,7,Total ban Ga/Ge/Sb to US,0,1,0,0,1,0
+EC025,2025-01-13,2025,1,USA,Biden_AI_Diffusion,AI Diffusion Rule,8,Tier 1/2/3 country restrictions,1,0,0,0,0,1
+EC026,2025-02-12,2025,2,USA,H20_restricted,H20 export controls,7,NVIDIA H20 chip blocked from China,1,0,0,0,0,1
+EC027,2025-04-15,2025,4,USA,Section_232_semis,Section 232 chip investigation,6,Trump tariff investigation begins,1,0,0,0,0,1
+EC028,2025-04-30,2025,4,CHN,REE_heavy,Heavy REE licensing,8,Dysprosium/terbium export licensing,0,1,0,0,0,1
+EC029,2025-07-15,2025,7,USA,AI_Diffusion_repealed,AI Diffusion repealed,6,Trump admin repeals Biden diffusion rule,1,0,0,0,0,1
+EC030,2025-08-25,2025,8,USA,Equipment_China,Equipment dual-use rules,7,ASML/AMAT/LRCX equipment restrictions,1,0,0,0,0,1
+EC031,2025-10-30,2025,10,USA,Trump_Xi_chip_deal,APEC chip framework,6,"Tariff freeze, some restrictions lift",1,0,0,0,0,1
+EC032,2026-01-15,2026,1,USA,Section_232_minerals,Critical minerals tariffs,7,"Tungsten, cobalt, REE tariffs",1,0,0,0,0,1
+EC033,2026-04-15,2026,4,USA,Section_232_semis_imposed,Chip tariffs 25-50%,9,Section 232 semi tariffs effective,1,0,0,0,0,1
+EC034,2026-04-30,2026,4,CHN,REE_tightened,Heavy REE near-total ban,8,China severs heavy rare earth exports,0,1,0,0,0,1

@@ -1,0 +1,618 @@
+year,company_name,ticker,country_iso3,segment,revenue_usd_bn,operating_margin_pct,operating_income_usd_bn,rd_spend_usd_bn,capex_usd_bn
+2010,TSMC,TSM,TWN,foundry,13.42,36.9,4.95,1.07,6.04
+2011,TSMC,TSM,TWN,foundry,16.32,42.8,6.99,1.31,7.35
+2012,TSMC,TSM,TWN,foundry,17.56,36.1,6.34,1.4,7.9
+2013,TSMC,TSM,TWN,foundry,21.36,39.1,8.34,1.71,9.61
+2014,TSMC,TSM,TWN,foundry,23.93,37.4,8.96,1.91,10.77
+2015,TSMC,TSM,TWN,foundry,27.31,42.3,11.56,2.18,12.29
+2016,TSMC,TSM,TWN,foundry,29.19,43.4,12.66,2.34,13.14
+2017,TSMC,TSM,TWN,foundry,32.11,37.4,12.02,2.57,14.45
+2018,TSMC,TSM,TWN,foundry,34.58,37.1,12.84,2.77,15.56
+2019,TSMC,TSM,TWN,foundry,40.91,39.9,16.3,3.27,18.41
+2020,TSMC,TSM,TWN,foundry,45.25,38.0,17.18,3.62,20.36
+2021,TSMC,TSM,TWN,foundry,62.97,39.5,24.9,5.04,28.34
+2022,TSMC,TSM,TWN,foundry,74.93,38.9,29.18,5.99,33.72
+2023,TSMC,TSM,TWN,foundry,70.42,41.1,28.94,5.63,31.69
+2024,TSMC,TSM,TWN,foundry,88.89,41.3,36.71,7.11,40.0
+2025,TSMC,TSM,TWN,foundry,108.13,38.8,41.93,8.65,48.66
+2026,TSMC,TSM,TWN,foundry,113.25,37.6,42.53,9.06,50.96
+2010,Samsung Foundry,005930,KOR,foundry,3.06,43.4,1.33,0.24,1.38
+2011,Samsung Foundry,005930,KOR,foundry,3.69,37.5,1.38,0.29,1.66
+2012,Samsung Foundry,005930,KOR,foundry,4.29,42.0,1.8,0.34,1.93
+2013,Samsung Foundry,005930,KOR,foundry,5.21,41.6,2.17,0.42,2.35
+2014,Samsung Foundry,005930,KOR,foundry,5.69,40.7,2.31,0.45,2.56
+2015,Samsung Foundry,005930,KOR,foundry,6.52,40.7,2.65,0.52,2.94
+2016,Samsung Foundry,005930,KOR,foundry,8.55,40.7,3.48,0.68,3.85
+2017,Samsung Foundry,005930,KOR,foundry,10.38,40.2,4.17,0.83,4.67
+2018,Samsung Foundry,005930,KOR,foundry,12.1,41.9,5.07,0.97,5.45
+2019,Samsung Foundry,005930,KOR,foundry,12.78,39.0,4.99,1.02,5.75
+2020,Samsung Foundry,005930,KOR,foundry,14.49,38.1,5.52,1.16,6.52
+2021,Samsung Foundry,005930,KOR,foundry,16.46,44.5,7.32,1.32,7.41
+2022,Samsung Foundry,005930,KOR,foundry,18.03,42.9,7.73,1.44,8.11
+2023,Samsung Foundry,005930,KOR,foundry,12.36,39.0,4.82,0.99,5.56
+2024,Samsung Foundry,005930,KOR,foundry,18.09,41.8,7.55,1.45,8.14
+2025,Samsung Foundry,005930,KOR,foundry,20.43,42.4,8.66,1.63,9.19
+2026,Samsung Foundry,005930,KOR,foundry,21.77,38.6,8.41,1.74,9.8
+2010,GlobalFoundries,GFS,USA,foundry,3.59,39.4,1.42,0.29,1.62
+2011,GlobalFoundries,GFS,USA,foundry,3.66,36.6,1.34,0.29,1.65
+2012,GlobalFoundries,GFS,USA,foundry,3.99,41.5,1.65,0.32,1.79
+2013,GlobalFoundries,GFS,USA,foundry,4.42,42.1,1.86,0.35,1.99
+2014,GlobalFoundries,GFS,USA,foundry,4.64,40.5,1.88,0.37,2.09
+2015,GlobalFoundries,GFS,USA,foundry,5.09,39.1,1.99,0.41,2.29
+2016,GlobalFoundries,GFS,USA,foundry,5.47,38.0,2.08,0.44,2.46
+2017,GlobalFoundries,GFS,USA,foundry,5.74,38.9,2.23,0.46,2.58
+2018,GlobalFoundries,GFS,USA,foundry,5.98,41.5,2.48,0.48,2.69
+2019,GlobalFoundries,GFS,USA,foundry,5.47,40.0,2.19,0.44,2.46
+2020,GlobalFoundries,GFS,USA,foundry,4.97,41.3,2.06,0.4,2.24
+2021,GlobalFoundries,GFS,USA,foundry,6.63,39.7,2.63,0.53,2.98
+2022,GlobalFoundries,GFS,USA,foundry,8.0,39.8,3.18,0.64,3.6
+2023,GlobalFoundries,GFS,USA,foundry,7.03,35.7,2.51,0.56,3.17
+2024,GlobalFoundries,GFS,USA,foundry,6.54,37.0,2.42,0.52,2.94
+2025,GlobalFoundries,GFS,USA,foundry,7.24,37.3,2.7,0.58,3.26
+2026,GlobalFoundries,GFS,USA,foundry,7.42,43.9,3.26,0.59,3.34
+2010,UMC,UMC,TWN,foundry,4.35,42.2,1.84,0.35,1.96
+2011,UMC,UMC,TWN,foundry,4.32,39.4,1.7,0.35,1.94
+2012,UMC,UMC,TWN,foundry,4.35,39.0,1.7,0.35,1.96
+2013,UMC,UMC,TWN,foundry,4.64,34.8,1.61,0.37,2.09
+2014,UMC,UMC,TWN,foundry,4.62,40.7,1.88,0.37,2.08
+2015,UMC,UMC,TWN,foundry,4.52,35.7,1.61,0.36,2.03
+2016,UMC,UMC,TWN,foundry,4.71,38.4,1.81,0.38,2.12
+2017,UMC,UMC,TWN,foundry,4.83,40.1,1.94,0.39,2.18
+2018,UMC,UMC,TWN,foundry,5.14,39.3,2.02,0.41,2.31
+2019,UMC,UMC,TWN,foundry,5.29,40.5,2.14,0.42,2.38
+2020,UMC,UMC,TWN,foundry,6.04,44.1,2.66,0.48,2.72
+2021,UMC,UMC,TWN,foundry,7.69,41.1,3.16,0.62,3.46
+2022,UMC,UMC,TWN,foundry,9.4,36.4,3.43,0.75,4.23
+2023,UMC,UMC,TWN,foundry,6.87,37.2,2.56,0.55,3.09
+2024,UMC,UMC,TWN,foundry,7.41,35.9,2.66,0.59,3.34
+2025,UMC,UMC,TWN,foundry,8.15,39.3,3.21,0.65,3.67
+2026,UMC,UMC,TWN,foundry,8.13,37.0,3.01,0.65,3.66
+2010,SMIC,0981,CHN,foundry,1.62,42.5,0.69,0.13,0.73
+2011,SMIC,0981,CHN,foundry,1.83,48.7,0.89,0.15,0.82
+2012,SMIC,0981,CHN,foundry,1.86,37.0,0.69,0.15,0.84
+2013,SMIC,0981,CHN,foundry,1.84,40.8,0.75,0.15,0.83
+2014,SMIC,0981,CHN,foundry,2.03,38.8,0.79,0.16,0.91
+2015,SMIC,0981,CHN,foundry,2.16,39.6,0.85,0.17,0.97
+2016,SMIC,0981,CHN,foundry,2.68,40.5,1.09,0.21,1.21
+2017,SMIC,0981,CHN,foundry,2.99,36.9,1.1,0.24,1.34
+2018,SMIC,0981,CHN,foundry,3.23,38.5,1.25,0.26,1.46
+2019,SMIC,0981,CHN,foundry,3.64,45.3,1.65,0.29,1.64
+2020,SMIC,0981,CHN,foundry,3.92,42.9,1.68,0.31,1.76
+2021,SMIC,0981,CHN,foundry,5.52,36.4,2.01,0.44,2.48
+2022,SMIC,0981,CHN,foundry,7.09,37.8,2.68,0.57,3.19
+2023,SMIC,0981,CHN,foundry,6.72,37.5,2.52,0.54,3.02
+2024,SMIC,0981,CHN,foundry,8.2,37.3,3.06,0.66,3.69
+2025,SMIC,0981,CHN,foundry,10.28,41.2,4.23,0.82,4.63
+2026,SMIC,0981,CHN,foundry,11.94,39.9,4.76,0.96,5.37
+2010,NVIDIA,NVDA,USA,fabless_gpu,3.43,56.3,1.93,0.86,0.07
+2011,NVIDIA,NVDA,USA,fabless_gpu,3.75,51.3,1.92,0.94,0.07
+2012,NVIDIA,NVDA,USA,fabless_gpu,3.95,55.5,2.19,0.99,0.08
+2013,NVIDIA,NVDA,USA,fabless_gpu,4.61,55.5,2.56,1.15,0.09
+2014,NVIDIA,NVDA,USA,fabless_gpu,4.68,55.9,2.62,1.17,0.09
+2015,NVIDIA,NVDA,USA,fabless_gpu,5.2,55.7,2.89,1.3,0.1
+2016,NVIDIA,NVDA,USA,fabless_gpu,6.49,58.3,3.78,1.62,0.13
+2017,NVIDIA,NVDA,USA,fabless_gpu,8.24,59.6,4.91,2.06,0.16
+2018,NVIDIA,NVDA,USA,fabless_gpu,9.75,51.3,5.01,2.44,0.2
+2019,NVIDIA,NVDA,USA,fabless_gpu,12.67,60.0,7.6,3.17,0.25
+2020,NVIDIA,NVDA,USA,fabless_gpu,17.59,54.5,9.58,4.4,0.35
+2021,NVIDIA,NVDA,USA,fabless_gpu,21.6,59.4,12.83,5.4,0.43
+2022,NVIDIA,NVDA,USA,fabless_gpu,26.12,52.3,13.66,6.53,0.52
+2023,NVIDIA,NVDA,USA,fabless_gpu,62.09,58.8,36.52,15.52,1.24
+2024,NVIDIA,NVDA,USA,fabless_gpu,130.48,59.5,77.65,32.62,2.61
+2025,NVIDIA,NVDA,USA,fabless_gpu,192.19,64.2,123.43,48.05,3.84
+2026,NVIDIA,NVDA,USA,fabless_gpu,250.68,61.9,155.25,62.67,5.01
+2010,AMD,AMD,USA,fabless_cpu_gpu,6.11,19.9,1.21,1.22,0.61
+2011,AMD,AMD,USA,fabless_cpu_gpu,5.85,16.3,0.96,1.17,0.59
+2012,AMD,AMD,USA,fabless_cpu_gpu,5.36,19.0,1.02,1.07,0.54
+2013,AMD,AMD,USA,fabless_cpu_gpu,5.14,16.0,0.82,1.03,0.51
+2014,AMD,AMD,USA,fabless_cpu_gpu,4.5,18.5,0.84,0.9,0.45
+2015,AMD,AMD,USA,fabless_cpu_gpu,3.96,23.0,0.91,0.79,0.4
+2016,AMD,AMD,USA,fabless_cpu_gpu,4.91,24.0,1.18,0.98,0.49
+2017,AMD,AMD,USA,fabless_cpu_gpu,5.64,17.9,1.01,1.13,0.56
+2018,AMD,AMD,USA,fabless_cpu_gpu,6.46,20.7,1.34,1.29,0.65
+2019,AMD,AMD,USA,fabless_cpu_gpu,8.19,16.7,1.37,1.64,0.82
+2020,AMD,AMD,USA,fabless_cpu_gpu,9.83,20.7,2.03,1.97,0.98
+2021,AMD,AMD,USA,fabless_cpu_gpu,18.01,25.6,4.62,3.6,1.8
+2022,AMD,AMD,USA,fabless_cpu_gpu,23.0,19.1,4.4,4.6,2.3
+2023,AMD,AMD,USA,fabless_cpu_gpu,21.72,18.2,3.96,4.34,2.17
+2024,AMD,AMD,USA,fabless_cpu_gpu,26.05,23.6,6.15,5.21,2.6
+2025,AMD,AMD,USA,fabless_cpu_gpu,33.17,18.0,5.98,6.63,3.32
+2026,AMD,AMD,USA,fabless_cpu_gpu,39.38,19.5,7.68,7.88,3.94
+2010,Qualcomm,QCOM,USA,fabless_mobile,10.65,28.4,3.03,1.28,1.07
+2011,Qualcomm,QCOM,USA,fabless_mobile,13.44,29.7,3.99,1.61,1.34
+2012,Qualcomm,QCOM,USA,fabless_mobile,15.75,25.6,4.03,1.89,1.57
+2013,Qualcomm,QCOM,USA,fabless_mobile,20.68,26.1,5.41,2.48,2.07
+2014,Qualcomm,QCOM,USA,fabless_mobile,21.48,35.5,7.63,2.58,2.15
+2015,Qualcomm,QCOM,USA,fabless_mobile,27.28,26.5,7.22,3.27,2.73
+2016,Qualcomm,QCOM,USA,fabless_mobile,23.97,31.0,7.44,2.88,2.4
+2017,Qualcomm,QCOM,USA,fabless_mobile,24.72,27.0,6.68,2.97,2.47
+2018,Qualcomm,QCOM,USA,fabless_mobile,22.53,32.3,7.29,2.7,2.25
+2019,Qualcomm,QCOM,USA,fabless_mobile,23.4,28.9,6.76,2.81,2.34
+2020,Qualcomm,QCOM,USA,fabless_mobile,23.41,25.9,6.06,2.81,2.34
+2021,Qualcomm,QCOM,USA,fabless_mobile,33.61,29.2,9.81,4.03,3.36
+2022,Qualcomm,QCOM,USA,fabless_mobile,44.51,28.3,12.61,5.34,4.45
+2023,Qualcomm,QCOM,USA,fabless_mobile,36.31,23.0,8.37,4.36,3.63
+2024,Qualcomm,QCOM,USA,fabless_mobile,39.18,31.1,12.17,4.7,3.92
+2025,Qualcomm,QCOM,USA,fabless_mobile,43.07,30.0,12.92,5.17,4.31
+2026,Qualcomm,QCOM,USA,fabless_mobile,45.99,30.9,14.23,5.52,4.6
+2010,Broadcom,AVGO,USA,fabless_diversified,2.99,36.3,1.09,0.36,0.3
+2011,Broadcom,AVGO,USA,fabless_diversified,3.94,31.2,1.23,0.47,0.39
+2012,Broadcom,AVGO,USA,fabless_diversified,4.42,26.7,1.18,0.53,0.44
+2013,Broadcom,AVGO,USA,fabless_diversified,5.47,30.8,1.68,0.66,0.55
+2014,Broadcom,AVGO,USA,fabless_diversified,6.13,24.8,1.52,0.74,0.61
+2015,Broadcom,AVGO,USA,fabless_diversified,6.99,31.4,2.19,0.84,0.7
+2016,Broadcom,AVGO,USA,fabless_diversified,11.09,28.6,3.17,1.33,1.11
+2017,Broadcom,AVGO,USA,fabless_diversified,16.26,30.2,4.9,1.95,1.63
+2018,Broadcom,AVGO,USA,fabless_diversified,20.62,29.7,6.12,2.47,2.06
+2019,Broadcom,AVGO,USA,fabless_diversified,22.18,30.5,6.76,2.66,2.22
+2020,Broadcom,AVGO,USA,fabless_diversified,24.98,22.3,5.57,3.0,2.5
+2021,Broadcom,AVGO,USA,fabless_diversified,28.35,30.5,8.65,3.4,2.83
+2022,Broadcom,AVGO,USA,fabless_diversified,33.5,28.9,9.68,4.02,3.35
+2023,Broadcom,AVGO,USA,fabless_diversified,33.96,31.0,10.52,4.08,3.4
+2024,Broadcom,AVGO,USA,fabless_diversified,54.34,25.4,13.8,6.52,5.43
+2025,Broadcom,AVGO,USA,fabless_diversified,62.4,29.0,18.1,7.49,6.24
+2026,Broadcom,AVGO,USA,fabless_diversified,69.87,26.8,18.75,8.38,6.99
+2010,MediaTek,2454,TWN,fabless_mobile,3.56,33.9,1.21,0.43,0.36
+2011,MediaTek,2454,TWN,fabless_mobile,4.23,35.2,1.49,0.51,0.42
+2012,MediaTek,2454,TWN,fabless_mobile,4.89,31.3,1.53,0.59,0.49
+2013,MediaTek,2454,TWN,fabless_mobile,5.56,31.3,1.74,0.67,0.56
+2014,MediaTek,2454,TWN,fabless_mobile,5.99,29.1,1.74,0.72,0.6
+2015,MediaTek,2454,TWN,fabless_mobile,6.41,27.9,1.79,0.77,0.64
+2016,MediaTek,2454,TWN,fabless_mobile,7.0,26.5,1.85,0.84,0.7
+2017,MediaTek,2454,TWN,fabless_mobile,7.37,29.4,2.17,0.88,0.74
+2018,MediaTek,2454,TWN,fabless_mobile,7.87,32.3,2.54,0.94,0.79
+2019,MediaTek,2454,TWN,fabless_mobile,9.77,32.2,3.14,1.17,0.98
+2020,MediaTek,2454,TWN,fabless_mobile,10.4,29.8,3.1,1.25,1.04
+2021,MediaTek,2454,TWN,fabless_mobile,14.24,28.4,4.05,1.71,1.42
+2022,MediaTek,2454,TWN,fabless_mobile,19.46,31.9,6.21,2.34,1.95
+2023,MediaTek,2454,TWN,fabless_mobile,13.32,17.0,2.26,1.6,1.33
+2024,MediaTek,2454,TWN,fabless_mobile,17.02,26.4,4.48,2.04,1.7
+2025,MediaTek,2454,TWN,fabless_mobile,18.62,30.9,5.76,2.23,1.86
+2026,MediaTek,2454,TWN,fabless_mobile,21.74,31.8,6.92,2.61,2.17
+2010,Marvell,MRVL,USA,fabless_networking,3.36,25.9,0.87,0.4,0.34
+2011,Marvell,MRVL,USA,fabless_networking,3.43,26.2,0.9,0.41,0.34
+2012,Marvell,MRVL,USA,fabless_networking,3.4,18.8,0.64,0.41,0.34
+2013,Marvell,MRVL,USA,fabless_networking,3.01,26.8,0.8,0.36,0.3
+2014,Marvell,MRVL,USA,fabless_networking,2.75,29.4,0.81,0.33,0.27
+2015,Marvell,MRVL,USA,fabless_networking,2.73,27.5,0.75,0.33,0.27
+2016,Marvell,MRVL,USA,fabless_networking,2.56,27.4,0.7,0.31,0.26
+2017,Marvell,MRVL,USA,fabless_networking,2.58,25.7,0.66,0.31,0.26
+2018,Marvell,MRVL,USA,fabless_networking,2.42,25.8,0.62,0.29,0.24
+2019,Marvell,MRVL,USA,fabless_networking,2.63,24.6,0.65,0.32,0.26
+2020,Marvell,MRVL,USA,fabless_networking,2.99,26.2,0.78,0.36,0.3
+2021,Marvell,MRVL,USA,fabless_networking,4.59,21.8,1.0,0.55,0.46
+2022,Marvell,MRVL,USA,fabless_networking,5.88,29.4,1.73,0.71,0.59
+2023,Marvell,MRVL,USA,fabless_networking,5.38,22.5,1.21,0.65,0.54
+2024,Marvell,MRVL,USA,fabless_networking,5.84,27.5,1.61,0.7,0.58
+2025,Marvell,MRVL,USA,fabless_networking,7.15,29.0,2.07,0.86,0.72
+2026,Marvell,MRVL,USA,fabless_networking,8.72,27.5,2.4,1.05,0.87
+2010,Intel,INTC,USA,idm_cpu,44.33,27.0,11.96,8.87,11.08
+2011,Intel,INTC,USA,idm_cpu,45.66,14.0,6.39,9.13,11.41
+2012,Intel,INTC,USA,idm_cpu,50.66,18.6,9.44,10.13,12.67
+2013,Intel,INTC,USA,idm_cpu,50.78,23.9,12.15,10.16,12.7
+2014,Intel,INTC,USA,idm_cpu,50.47,16.2,8.2,10.09,12.62
+2015,Intel,INTC,USA,idm_cpu,52.71,17.6,9.29,10.54,13.18
+2016,Intel,INTC,USA,idm_cpu,61.27,21.6,13.22,12.25,15.32
+2017,Intel,INTC,USA,idm_cpu,66.18,15.8,10.43,13.24,16.54
+2018,Intel,INTC,USA,idm_cpu,66.06,20.2,13.32,13.21,16.51
+2019,Intel,INTC,USA,idm_cpu,73.31,21.4,15.67,14.66,18.33
+2020,Intel,INTC,USA,idm_cpu,79.56,20.4,16.24,15.91,19.89
+2021,Intel,INTC,USA,idm_cpu,72.13,20.7,14.92,14.43,18.03
+2022,Intel,INTC,USA,idm_cpu,64.11,7.9,5.06,12.82,16.03
+2023,Intel,INTC,USA,idm_cpu,53.91,10.6,5.71,10.78,13.48
+2024,Intel,INTC,USA,idm_cpu,54.42,8.8,4.8,10.88,13.61
+2025,Intel,INTC,USA,idm_cpu,57.44,9.2,5.29,11.49,14.36
+2026,Intel,INTC,USA,idm_cpu,59.79,12.5,7.47,11.96,14.95
+2010,Samsung Memory,005930,KOR,idm_memory,31.08,16.1,5.0,3.11,10.88
+2011,Samsung Memory,005930,KOR,idm_memory,32.71,7.9,2.57,3.27,11.45
+2012,Samsung Memory,005930,KOR,idm_memory,34.69,13.6,4.72,3.47,12.14
+2013,Samsung Memory,005930,KOR,idm_memory,36.29,10.6,3.85,3.63,12.7
+2014,Samsung Memory,005930,KOR,idm_memory,39.06,15.0,5.86,3.91,13.67
+2015,Samsung Memory,005930,KOR,idm_memory,38.92,18.3,7.12,3.89,13.62
+2016,Samsung Memory,005930,KOR,idm_memory,52.14,16.6,8.68,5.21,18.25
+2017,Samsung Memory,005930,KOR,idm_memory,63.85,20.6,13.13,6.39,22.35
+2018,Samsung Memory,005930,KOR,idm_memory,75.95,29.8,22.61,7.59,26.58
+2019,Samsung Memory,005930,KOR,idm_memory,74.27,40.9,30.39,7.43,25.99
+2020,Samsung Memory,005930,KOR,idm_memory,64.28,40.2,25.81,6.43,22.5
+2021,Samsung Memory,005930,KOR,idm_memory,69.3,41.4,28.7,6.93,24.26
+2022,Samsung Memory,005930,KOR,idm_memory,75.7,33.1,25.09,7.57,26.5
+2023,Samsung Memory,005930,KOR,idm_memory,50.38,23.3,11.75,5.04,17.63
+2024,Samsung Memory,005930,KOR,idm_memory,74.79,26.8,20.06,7.48,26.18
+2025,Samsung Memory,005930,KOR,idm_memory,83.84,25.4,21.3,8.38,29.34
+2026,Samsung Memory,005930,KOR,idm_memory,94.46,19.3,18.28,9.45,33.06
+2010,SK Hynix,000660,KOR,idm_memory,10.61,23.9,2.54,1.06,3.72
+2011,SK Hynix,000660,KOR,idm_memory,11.58,10.4,1.21,1.16,4.05
+2012,SK Hynix,000660,KOR,idm_memory,13.32,10.4,1.38,1.33,4.66
+2013,SK Hynix,000660,KOR,idm_memory,14.58,11.2,1.63,1.46,5.1
+2014,SK Hynix,000660,KOR,idm_memory,15.24,12.1,1.84,1.52,5.33
+2015,SK Hynix,000660,KOR,idm_memory,17.49,20.5,3.58,1.75,6.12
+2016,SK Hynix,000660,KOR,idm_memory,22.88,19.6,4.49,2.29,8.01
+2017,SK Hynix,000660,KOR,idm_memory,30.12,22.5,6.77,3.01,10.54
+2018,SK Hynix,000660,KOR,idm_memory,35.86,30.8,11.03,3.59,12.55
+2019,SK Hynix,000660,KOR,idm_memory,32.3,33.3,10.74,3.23,11.31
+2020,SK Hynix,000660,KOR,idm_memory,27.17,32.8,8.9,2.72,9.51
+2021,SK Hynix,000660,KOR,idm_memory,30.7,38.6,11.86,3.07,10.75
+2022,SK Hynix,000660,KOR,idm_memory,34.69,44.5,15.42,3.47,12.14
+2023,SK Hynix,000660,KOR,idm_memory,25.33,22.2,5.63,2.53,8.86
+2024,SK Hynix,000660,KOR,idm_memory,51.53,28.8,14.84,5.15,18.04
+2025,SK Hynix,000660,KOR,idm_memory,59.99,24.7,14.8,6.0,21.0
+2026,SK Hynix,000660,KOR,idm_memory,71.31,17.3,12.37,7.13,24.96
+2010,Micron,MU,USA,idm_memory,8.78,16.5,1.45,0.88,3.07
+2011,Micron,MU,USA,idm_memory,10.04,22.7,2.28,1.0,3.51
+2012,Micron,MU,USA,idm_memory,11.66,15.7,1.83,1.17,4.08
+2013,Micron,MU,USA,idm_memory,13.16,11.7,1.55,1.32,4.6
+2014,Micron,MU,USA,idm_memory,14.64,10.5,1.54,1.46,5.12
+2015,Micron,MU,USA,idm_memory,15.83,15.5,2.46,1.58,5.54
+2016,Micron,MU,USA,idm_memory,20.41,21.2,4.32,2.04,7.14
+2017,Micron,MU,USA,idm_memory,26.52,26.1,6.92,2.65,9.28
+2018,Micron,MU,USA,idm_memory,30.14,32.2,9.71,3.01,10.55
+2019,Micron,MU,USA,idm_memory,25.66,38.6,9.9,2.57,8.98
+2020,Micron,MU,USA,idm_memory,20.26,38.0,7.69,2.03,7.09
+2021,Micron,MU,USA,idm_memory,24.59,35.5,8.73,2.46,8.61
+2022,Micron,MU,USA,idm_memory,32.09,41.3,13.26,3.21,11.23
+2023,Micron,MU,USA,idm_memory,15.17,20.6,3.13,1.52,5.31
+2024,Micron,MU,USA,idm_memory,22.96,28.4,6.52,2.3,8.04
+2025,Micron,MU,USA,idm_memory,33.93,25.4,8.63,3.39,11.87
+2026,Micron,MU,USA,idm_memory,37.37,19.8,7.38,3.74,13.08
+2010,Texas Instruments,TXN,USA,idm_analog,13.26,44.1,5.85,1.59,1.59
+2011,Texas Instruments,TXN,USA,idm_analog,13.76,44.7,6.16,1.65,1.65
+2012,Texas Instruments,TXN,USA,idm_analog,13.87,46.0,6.38,1.66,1.66
+2013,Texas Instruments,TXN,USA,idm_analog,13.63,42.9,5.85,1.64,1.64
+2014,Texas Instruments,TXN,USA,idm_analog,13.54,49.9,6.75,1.62,1.62
+2015,Texas Instruments,TXN,USA,idm_analog,12.63,42.3,5.35,1.52,1.52
+2016,Texas Instruments,TXN,USA,idm_analog,14.5,44.4,6.44,1.74,1.74
+2017,Texas Instruments,TXN,USA,idm_analog,15.51,43.7,6.77,1.86,1.86
+2018,Texas Instruments,TXN,USA,idm_analog,16.5,45.4,7.49,1.98,1.98
+2019,Texas Instruments,TXN,USA,idm_analog,15.27,49.7,7.59,1.83,1.83
+2020,Texas Instruments,TXN,USA,idm_analog,14.34,42.2,6.05,1.72,1.72
+2021,Texas Instruments,TXN,USA,idm_analog,17.02,46.4,7.89,2.04,2.04
+2022,Texas Instruments,TXN,USA,idm_analog,19.08,46.9,8.95,2.29,2.29
+2023,Texas Instruments,TXN,USA,idm_analog,17.22,48.4,8.34,2.07,2.07
+2024,Texas Instruments,TXN,USA,idm_analog,14.89,42.6,6.35,1.79,1.79
+2025,Texas Instruments,TXN,USA,idm_analog,16.64,42.5,7.07,2.0,2.0
+2026,Texas Instruments,TXN,USA,idm_analog,19.14,44.5,8.51,2.3,2.3
+2010,Analog Devices,ADI,USA,idm_analog,2.88,44.5,1.28,0.35,0.35
+2011,Analog Devices,ADI,USA,idm_analog,3.02,42.0,1.27,0.36,0.36
+2012,Analog Devices,ADI,USA,idm_analog,3.17,47.0,1.49,0.38,0.38
+2013,Analog Devices,ADI,USA,idm_analog,3.24,46.7,1.51,0.39,0.39
+2014,Analog Devices,ADI,USA,idm_analog,3.33,51.1,1.7,0.4,0.4
+2015,Analog Devices,ADI,USA,idm_analog,3.39,44.1,1.49,0.41,0.41
+2016,Analog Devices,ADI,USA,idm_analog,4.24,41.9,1.78,0.51,0.51
+2017,Analog Devices,ADI,USA,idm_analog,5.07,42.3,2.15,0.61,0.61
+2018,Analog Devices,ADI,USA,idm_analog,6.19,46.0,2.85,0.74,0.74
+2019,Analog Devices,ADI,USA,idm_analog,5.91,42.7,2.52,0.71,0.71
+2020,Analog Devices,ADI,USA,idm_analog,5.75,47.2,2.72,0.69,0.69
+2021,Analog Devices,ADI,USA,idm_analog,8.76,43.0,3.77,1.05,1.05
+2022,Analog Devices,ADI,USA,idm_analog,12.2,45.6,5.56,1.46,1.46
+2023,Analog Devices,ADI,USA,idm_analog,11.78,44.8,5.28,1.41,1.41
+2024,Analog Devices,ADI,USA,idm_analog,9.47,42.3,4.01,1.14,1.14
+2025,Analog Devices,ADI,USA,idm_analog,11.01,40.6,4.48,1.32,1.32
+2026,Analog Devices,ADI,USA,idm_analog,13.01,48.7,6.34,1.56,1.56
+2010,Infineon,IFX,DEU,idm_automotive,4.57,21.1,0.96,0.55,0.68
+2011,Infineon,IFX,DEU,idm_automotive,4.54,16.5,0.75,0.54,0.68
+2012,Infineon,IFX,DEU,idm_automotive,5.11,16.8,0.86,0.61,0.77
+2013,Infineon,IFX,DEU,idm_automotive,5.56,26.0,1.44,0.67,0.83
+2014,Infineon,IFX,DEU,idm_automotive,5.52,17.5,0.97,0.66,0.83
+2015,Infineon,IFX,DEU,idm_automotive,6.04,24.8,1.5,0.73,0.91
+2016,Infineon,IFX,DEU,idm_automotive,6.56,20.7,1.36,0.79,0.98
+2017,Infineon,IFX,DEU,idm_automotive,8.03,15.0,1.21,0.96,1.2
+2018,Infineon,IFX,DEU,idm_automotive,8.08,18.7,1.51,0.97,1.21
+2019,Infineon,IFX,DEU,idm_automotive,8.57,22.4,1.92,1.03,1.28
+2020,Infineon,IFX,DEU,idm_automotive,9.07,14.7,1.33,1.09,1.36
+2021,Infineon,IFX,DEU,idm_automotive,11.78,18.3,2.15,1.41,1.77
+2022,Infineon,IFX,DEU,idm_automotive,14.75,18.1,2.67,1.77,2.21
+2023,Infineon,IFX,DEU,idm_automotive,16.68,11.6,1.94,2.0,2.5
+2024,Infineon,IFX,DEU,idm_automotive,15.35,21.3,3.28,1.84,2.3
+2025,Infineon,IFX,DEU,idm_automotive,15.69,21.6,3.39,1.88,2.35
+2026,Infineon,IFX,DEU,idm_automotive,17.45,20.7,3.61,2.09,2.62
+2010,STMicroelectronics,STM,EUR,idm_diversified,9.87,21.3,2.11,1.18,0.99
+2011,STMicroelectronics,STM,EUR,idm_diversified,9.41,16.2,1.52,1.13,0.94
+2012,STMicroelectronics,STM,EUR,idm_diversified,9.17,20.7,1.9,1.1,0.92
+2013,STMicroelectronics,STM,EUR,idm_diversified,8.17,24.4,1.99,0.98,0.82
+2014,STMicroelectronics,STM,EUR,idm_diversified,7.56,20.1,1.52,0.91,0.76
+2015,STMicroelectronics,STM,EUR,idm_diversified,7.06,18.1,1.28,0.85,0.71
+2016,STMicroelectronics,STM,EUR,idm_diversified,7.98,18.4,1.47,0.96,0.8
+2017,STMicroelectronics,STM,EUR,idm_diversified,8.63,24.1,2.08,1.04,0.86
+2018,STMicroelectronics,STM,EUR,idm_diversified,9.3,12.8,1.19,1.12,0.93
+2019,STMicroelectronics,STM,EUR,idm_diversified,10.39,27.6,2.87,1.25,1.04
+2020,STMicroelectronics,STM,EUR,idm_diversified,10.08,14.2,1.43,1.21,1.01
+2021,STMicroelectronics,STM,EUR,idm_diversified,13.03,19.1,2.49,1.56,1.3
+2022,STMicroelectronics,STM,EUR,idm_diversified,16.01,16.7,2.67,1.92,1.6
+2023,STMicroelectronics,STM,EUR,idm_diversified,17.6,21.6,3.8,2.11,1.76
+2024,STMicroelectronics,STM,EUR,idm_diversified,12.72,22.1,2.81,1.53,1.27
+2025,STMicroelectronics,STM,EUR,idm_diversified,15.85,20.5,3.25,1.9,1.58
+2026,STMicroelectronics,STM,EUR,idm_diversified,16.33,19.6,3.2,1.96,1.63
+2010,NXP Semiconductors,NXPI,NLD,idm_automotive,4.48,14.8,0.66,0.54,0.67
+2011,NXP Semiconductors,NXPI,NLD,idm_automotive,4.76,18.8,0.9,0.57,0.71
+2012,NXP Semiconductors,NXPI,NLD,idm_automotive,5.37,19.5,1.05,0.64,0.81
+2013,NXP Semiconductors,NXPI,NLD,idm_automotive,5.7,16.7,0.95,0.68,0.85
+2014,NXP Semiconductors,NXPI,NLD,idm_automotive,5.86,21.0,1.23,0.7,0.88
+2015,NXP Semiconductors,NXPI,NLD,idm_automotive,5.94,20.5,1.22,0.71,0.89
+2016,NXP Semiconductors,NXPI,NLD,idm_automotive,7.47,19.0,1.42,0.9,1.12
+2017,NXP Semiconductors,NXPI,NLD,idm_automotive,7.89,19.9,1.57,0.95,1.18
+2018,NXP Semiconductors,NXPI,NLD,idm_automotive,9.15,19.0,1.74,1.1,1.37
+2019,NXP Semiconductors,NXPI,NLD,idm_automotive,8.98,14.9,1.34,1.08,1.35
+2020,NXP Semiconductors,NXPI,NLD,idm_automotive,8.19,21.4,1.76,0.98,1.23
+2021,NXP Semiconductors,NXPI,NLD,idm_automotive,10.73,12.3,1.32,1.29,1.61
+2022,NXP Semiconductors,NXPI,NLD,idm_automotive,13.51,20.8,2.81,1.62,2.03
+2023,NXP Semiconductors,NXPI,NLD,idm_automotive,13.02,6.0,0.79,1.56,1.95
+2024,NXP Semiconductors,NXPI,NLD,idm_automotive,12.92,21.0,2.72,1.55,1.94
+2025,NXP Semiconductors,NXPI,NLD,idm_automotive,15.09,21.3,3.21,1.81,2.26
+2026,NXP Semiconductors,NXPI,NLD,idm_automotive,15.68,19.5,3.06,1.88,2.35
+2010,Renesas,6723,JPN,idm_automotive,12.3,21.9,2.69,1.48,1.84
+2011,Renesas,6723,JPN,idm_automotive,11.42,18.4,2.11,1.37,1.71
+2012,Renesas,6723,JPN,idm_automotive,9.87,18.6,1.83,1.18,1.48
+2013,Renesas,6723,JPN,idm_automotive,9.22,24.5,2.26,1.11,1.38
+2014,Renesas,6723,JPN,idm_automotive,7.89,18.7,1.48,0.95,1.18
+2015,Renesas,6723,JPN,idm_automotive,7.07,19.3,1.36,0.85,1.06
+2016,Renesas,6723,JPN,idm_automotive,7.2,13.2,0.95,0.86,1.08
+2017,Renesas,6723,JPN,idm_automotive,6.83,17.7,1.21,0.82,1.02
+2018,Renesas,6723,JPN,idm_automotive,6.53,17.1,1.12,0.78,0.98
+2019,Renesas,6723,JPN,idm_automotive,6.62,19.4,1.28,0.79,0.99
+2020,Renesas,6723,JPN,idm_automotive,6.82,19.3,1.31,0.82,1.02
+2021,Renesas,6723,JPN,idm_automotive,8.53,19.8,1.69,1.02,1.28
+2022,Renesas,6723,JPN,idm_automotive,11.35,17.1,1.94,1.36,1.7
+2023,Renesas,6723,JPN,idm_automotive,10.31,11.7,1.2,1.24,1.55
+2024,Renesas,6723,JPN,idm_automotive,9.34,21.9,2.05,1.12,1.4
+2025,Renesas,6723,JPN,idm_automotive,10.45,22.1,2.31,1.25,1.57
+2026,Renesas,6723,JPN,idm_automotive,11.15,20.0,2.23,1.34,1.67
+2010,Microchip,MCHP,USA,idm_micro,1.49,36.4,0.54,0.18,0.15
+2011,Microchip,MCHP,USA,idm_micro,1.56,42.1,0.66,0.19,0.16
+2012,Microchip,MCHP,USA,idm_micro,1.76,36.9,0.65,0.21,0.18
+2013,Microchip,MCHP,USA,idm_micro,1.91,43.4,0.83,0.23,0.19
+2014,Microchip,MCHP,USA,idm_micro,1.92,35.5,0.68,0.23,0.19
+2015,Microchip,MCHP,USA,idm_micro,2.14,44.4,0.95,0.26,0.21
+2016,Microchip,MCHP,USA,idm_micro,2.82,42.3,1.19,0.34,0.28
+2017,Microchip,MCHP,USA,idm_micro,3.29,36.6,1.2,0.39,0.33
+2018,Microchip,MCHP,USA,idm_micro,4.05,40.2,1.63,0.49,0.41
+2019,Microchip,MCHP,USA,idm_micro,4.73,39.4,1.86,0.57,0.47
+2020,Microchip,MCHP,USA,idm_micro,5.34,40.5,2.16,0.64,0.53
+2021,Microchip,MCHP,USA,idm_micro,7.01,42.4,2.97,0.84,0.7
+2022,Microchip,MCHP,USA,idm_micro,8.0,33.3,2.66,0.96,0.8
+2023,Microchip,MCHP,USA,idm_micro,7.83,43.6,3.41,0.94,0.78
+2024,Microchip,MCHP,USA,idm_micro,4.27,34.4,1.47,0.51,0.43
+2025,Microchip,MCHP,USA,idm_micro,5.47,42.8,2.34,0.66,0.55
+2026,Microchip,MCHP,USA,idm_micro,6.86,41.5,2.85,0.82,0.69
+2010,Onsemi,ON,USA,idm_power,2.27,22.3,0.51,0.27,0.23
+2011,Onsemi,ON,USA,idm_power,2.54,24.1,0.61,0.3,0.25
+2012,Onsemi,ON,USA,idm_power,2.7,31.1,0.84,0.32,0.27
+2013,Onsemi,ON,USA,idm_power,3.19,28.4,0.91,0.38,0.32
+2014,Onsemi,ON,USA,idm_power,3.17,27.6,0.87,0.38,0.32
+2015,Onsemi,ON,USA,idm_power,3.57,26.3,0.94,0.43,0.36
+2016,Onsemi,ON,USA,idm_power,4.46,26.9,1.2,0.54,0.45
+2017,Onsemi,ON,USA,idm_power,5.21,26.9,1.4,0.63,0.52
+2018,Onsemi,ON,USA,idm_power,5.96,19.6,1.17,0.72,0.6
+2019,Onsemi,ON,USA,idm_power,5.61,23.3,1.31,0.67,0.56
+2020,Onsemi,ON,USA,idm_power,5.1,30.0,1.53,0.61,0.51
+2021,Onsemi,ON,USA,idm_power,7.16,29.1,2.08,0.86,0.72
+2022,Onsemi,ON,USA,idm_power,8.36,29.1,2.43,1.0,0.84
+2023,Onsemi,ON,USA,idm_power,8.3,25.6,2.13,1.0,0.83
+2024,Onsemi,ON,USA,idm_power,6.87,26.2,1.8,0.82,0.69
+2025,Onsemi,ON,USA,idm_power,8.06,21.1,1.7,0.97,0.81
+2026,Onsemi,ON,USA,idm_power,8.99,24.8,2.23,1.08,0.9
+2010,ASML,ASML,NLD,equipment_litho,6.65,37.7,2.51,1.06,0.4
+2011,ASML,ASML,NLD,equipment_litho,6.44,35.7,2.3,1.03,0.39
+2012,ASML,ASML,NLD,equipment_litho,6.59,34.4,2.27,1.05,0.4
+2013,ASML,ASML,NLD,equipment_litho,6.51,34.5,2.25,1.04,0.39
+2014,ASML,ASML,NLD,equipment_litho,6.71,31.2,2.1,1.07,0.4
+2015,ASML,ASML,NLD,equipment_litho,7.11,36.2,2.57,1.14,0.43
+2016,ASML,ASML,NLD,equipment_litho,8.21,34.6,2.84,1.31,0.49
+2017,ASML,ASML,NLD,equipment_litho,10.65,38.2,4.06,1.7,0.64
+2018,ASML,ASML,NLD,equipment_litho,12.38,35.1,4.35,1.98,0.74
+2019,ASML,ASML,NLD,equipment_litho,13.65,31.7,4.33,2.18,0.82
+2020,ASML,ASML,NLD,equipment_litho,16.17,36.1,5.84,2.59,0.97
+2021,ASML,ASML,NLD,equipment_litho,20.79,38.3,7.96,3.33,1.25
+2022,ASML,ASML,NLD,equipment_litho,23.9,31.3,7.47,3.82,1.43
+2023,ASML,ASML,NLD,equipment_litho,30.31,35.7,10.81,4.85,1.82
+2024,ASML,ASML,NLD,equipment_litho,31.81,33.3,10.58,5.09,1.91
+2025,ASML,ASML,NLD,equipment_litho,38.79,33.5,12.99,6.21,2.33
+2026,ASML,ASML,NLD,equipment_litho,44.16,35.9,15.87,7.07,2.65
+2010,Applied Materials,AMAT,USA,equipment_diversified,9.39,30.7,2.88,1.13,0.94
+2011,Applied Materials,AMAT,USA,equipment_diversified,9.56,26.6,2.54,1.15,0.96
+2012,Applied Materials,AMAT,USA,equipment_diversified,9.32,34.3,3.2,1.12,0.93
+2013,Applied Materials,AMAT,USA,equipment_diversified,9.12,23.7,2.16,1.09,0.91
+2014,Applied Materials,AMAT,USA,equipment_diversified,8.91,30.1,2.68,1.07,0.89
+2015,Applied Materials,AMAT,USA,equipment_diversified,9.41,29.6,2.79,1.13,0.94
+2016,Applied Materials,AMAT,USA,equipment_diversified,12.27,22.0,2.7,1.47,1.23
+2017,Applied Materials,AMAT,USA,equipment_diversified,14.44,34.7,5.01,1.73,1.44
+2018,Applied Materials,AMAT,USA,equipment_diversified,16.14,28.9,4.66,1.94,1.61
+2019,Applied Materials,AMAT,USA,equipment_diversified,16.57,27.3,4.53,1.99,1.66
+2020,Applied Materials,AMAT,USA,equipment_diversified,17.03,34.3,5.84,2.04,1.7
+2021,Applied Materials,AMAT,USA,equipment_diversified,22.72,29.0,6.59,2.73,2.27
+2022,Applied Materials,AMAT,USA,equipment_diversified,27.32,30.1,8.22,3.28,2.73
+2023,Applied Materials,AMAT,USA,equipment_diversified,27.93,29.7,8.3,3.35,2.79
+2024,Applied Materials,AMAT,USA,equipment_diversified,27.31,31.1,8.49,3.28,2.73
+2025,Applied Materials,AMAT,USA,equipment_diversified,33.11,32.6,10.78,3.97,3.31
+2026,Applied Materials,AMAT,USA,equipment_diversified,32.31,32.9,10.63,3.88,3.23
+2010,Lam Research,LRCX,USA,equipment_etch,2.57,28.5,0.73,0.31,0.26
+2011,Lam Research,LRCX,USA,equipment_etch,3.23,30.1,0.97,0.39,0.32
+2012,Lam Research,LRCX,USA,equipment_etch,3.71,30.0,1.11,0.45,0.37
+2013,Lam Research,LRCX,USA,equipment_etch,4.26,31.3,1.33,0.51,0.43
+2014,Lam Research,LRCX,USA,equipment_etch,4.49,32.0,1.44,0.54,0.45
+2015,Lam Research,LRCX,USA,equipment_etch,5.15,25.7,1.32,0.62,0.51
+2016,Lam Research,LRCX,USA,equipment_etch,7.22,30.3,2.18,0.87,0.72
+2017,Lam Research,LRCX,USA,equipment_etch,8.98,32.5,2.92,1.08,0.9
+2018,Lam Research,LRCX,USA,equipment_etch,10.66,28.8,3.07,1.28,1.07
+2019,Lam Research,LRCX,USA,equipment_etch,10.37,29.9,3.1,1.24,1.04
+2020,Lam Research,LRCX,USA,equipment_etch,10.08,27.0,2.72,1.21,1.01
+2021,Lam Research,LRCX,USA,equipment_etch,13.9,30.2,4.2,1.67,1.39
+2022,Lam Research,LRCX,USA,equipment_etch,16.25,24.1,3.92,1.95,1.63
+2023,Lam Research,LRCX,USA,equipment_etch,17.39,29.3,5.1,2.09,1.74
+2024,Lam Research,LRCX,USA,equipment_etch,14.85,29.9,4.44,1.78,1.49
+2025,Lam Research,LRCX,USA,equipment_etch,17.07,32.8,5.6,2.05,1.71
+2026,Lam Research,LRCX,USA,equipment_etch,18.38,26.5,4.87,2.21,1.84
+2010,KLA,KLAC,USA,equipment_inspection,1.74,40.9,0.71,0.21,0.17
+2011,KLA,KLAC,USA,equipment_inspection,2.08,38.7,0.8,0.25,0.21
+2012,KLA,KLAC,USA,equipment_inspection,2.04,34.9,0.71,0.24,0.2
+2013,KLA,KLAC,USA,equipment_inspection,2.34,38.3,0.9,0.28,0.23
+2014,KLA,KLAC,USA,equipment_inspection,2.57,40.1,1.03,0.31,0.26
+2015,KLA,KLAC,USA,equipment_inspection,2.77,43.1,1.2,0.33,0.28
+2016,KLA,KLAC,USA,equipment_inspection,3.14,37.4,1.17,0.38,0.31
+2017,KLA,KLAC,USA,equipment_inspection,3.65,35.4,1.29,0.44,0.37
+2018,KLA,KLAC,USA,equipment_inspection,4.05,40.3,1.63,0.49,0.4
+2019,KLA,KLAC,USA,equipment_inspection,4.88,44.8,2.18,0.59,0.49
+2020,KLA,KLAC,USA,equipment_inspection,5.69,46.2,2.63,0.68,0.57
+2021,KLA,KLAC,USA,equipment_inspection,7.45,36.2,2.69,0.89,0.74
+2022,KLA,KLAC,USA,equipment_inspection,9.22,36.8,3.39,1.11,0.92
+2023,KLA,KLAC,USA,equipment_inspection,10.27,41.2,4.23,1.23,1.03
+2024,KLA,KLAC,USA,equipment_inspection,9.96,38.1,3.8,1.2,1.0
+2025,KLA,KLAC,USA,equipment_inspection,11.74,43.5,5.1,1.41,1.17
+2026,KLA,KLAC,USA,equipment_inspection,13.57,41.6,5.64,1.63,1.36
+2010,Tokyo Electron,8035,JPN,equipment_diversified,6.88,24.4,1.67,0.83,0.69
+2011,Tokyo Electron,8035,JPN,equipment_diversified,6.28,27.4,1.72,0.75,0.63
+2012,Tokyo Electron,8035,JPN,equipment_diversified,6.1,28.3,1.73,0.73,0.61
+2013,Tokyo Electron,8035,JPN,equipment_diversified,5.79,35.6,2.06,0.69,0.58
+2014,Tokyo Electron,8035,JPN,equipment_diversified,5.53,31.2,1.73,0.66,0.55
+2015,Tokyo Electron,8035,JPN,equipment_diversified,5.26,30.2,1.59,0.63,0.53
+2016,Tokyo Electron,8035,JPN,equipment_diversified,7.3,31.3,2.29,0.88,0.73
+2017,Tokyo Electron,8035,JPN,equipment_diversified,9.63,34.9,3.37,1.16,0.96
+2018,Tokyo Electron,8035,JPN,equipment_diversified,11.41,31.8,3.62,1.37,1.14
+2019,Tokyo Electron,8035,JPN,equipment_diversified,10.82,29.7,3.22,1.3,1.08
+2020,Tokyo Electron,8035,JPN,equipment_diversified,11.42,32.6,3.72,1.37,1.14
+2021,Tokyo Electron,8035,JPN,equipment_diversified,13.79,32.7,4.5,1.65,1.38
+2022,Tokyo Electron,8035,JPN,equipment_diversified,16.54,33.6,5.56,1.99,1.65
+2023,Tokyo Electron,8035,JPN,equipment_diversified,14.63,28.9,4.23,1.76,1.46
+2024,Tokyo Electron,8035,JPN,equipment_diversified,13.64,21.2,2.89,1.64,1.36
+2025,Tokyo Electron,8035,JPN,equipment_diversified,15.68,19.1,2.99,1.88,1.57
+2026,Tokyo Electron,8035,JPN,equipment_diversified,16.62,31.4,5.21,1.99,1.66
+2010,SCREEN Holdings,7735,JPN,equipment_cleaning,1.83,16.5,0.3,0.22,0.18
+2011,SCREEN Holdings,7735,JPN,equipment_cleaning,1.86,24.1,0.45,0.22,0.19
+2012,SCREEN Holdings,7735,JPN,equipment_cleaning,1.97,26.7,0.53,0.24,0.2
+2013,SCREEN Holdings,7735,JPN,equipment_cleaning,2.1,21.2,0.45,0.25,0.21
+2014,SCREEN Holdings,7735,JPN,equipment_cleaning,2.31,20.4,0.47,0.28,0.23
+2015,SCREEN Holdings,7735,JPN,equipment_cleaning,2.23,19.7,0.44,0.27,0.22
+2016,SCREEN Holdings,7735,JPN,equipment_cleaning,2.5,15.9,0.4,0.3,0.25
+2017,SCREEN Holdings,7735,JPN,equipment_cleaning,2.68,17.8,0.48,0.32,0.27
+2018,SCREEN Holdings,7735,JPN,equipment_cleaning,2.98,20.1,0.6,0.36,0.3
+2019,SCREEN Holdings,7735,JPN,equipment_cleaning,2.78,19.7,0.55,0.33,0.28
+2020,SCREEN Holdings,7735,JPN,equipment_cleaning,2.72,21.9,0.59,0.33,0.27
+2021,SCREEN Holdings,7735,JPN,equipment_cleaning,3.2,16.9,0.54,0.38,0.32
+2022,SCREEN Holdings,7735,JPN,equipment_cleaning,4.03,18.8,0.76,0.48,0.4
+2023,SCREEN Holdings,7735,JPN,equipment_cleaning,4.22,21.3,0.9,0.51,0.42
+2024,SCREEN Holdings,7735,JPN,equipment_cleaning,4.26,15.4,0.66,0.51,0.43
+2025,SCREEN Holdings,7735,JPN,equipment_cleaning,4.88,22.2,1.08,0.59,0.49
+2026,SCREEN Holdings,7735,JPN,equipment_cleaning,5.56,21.9,1.22,0.67,0.56
+2010,Synopsys,SNPS,USA,eda_software,1.34,41.0,0.55,0.47,0.01
+2011,Synopsys,SNPS,USA,eda_software,1.55,38.6,0.6,0.54,0.02
+2012,Synopsys,SNPS,USA,eda_software,1.77,44.4,0.78,0.62,0.02
+2013,Synopsys,SNPS,USA,eda_software,1.98,43.9,0.87,0.69,0.02
+2014,Synopsys,SNPS,USA,eda_software,2.03,41.1,0.83,0.71,0.02
+2015,Synopsys,SNPS,USA,eda_software,2.25,40.4,0.91,0.79,0.02
+2016,Synopsys,SNPS,USA,eda_software,2.51,42.5,1.07,0.88,0.03
+2017,Synopsys,SNPS,USA,eda_software,2.8,37.8,1.06,0.98,0.03
+2018,Synopsys,SNPS,USA,eda_software,3.06,41.9,1.28,1.07,0.03
+2019,Synopsys,SNPS,USA,eda_software,3.4,41.0,1.39,1.19,0.03
+2020,Synopsys,SNPS,USA,eda_software,3.78,38.9,1.47,1.32,0.04
+2021,Synopsys,SNPS,USA,eda_software,4.45,41.1,1.83,1.56,0.04
+2022,Synopsys,SNPS,USA,eda_software,4.82,44.3,2.14,1.69,0.05
+2023,Synopsys,SNPS,USA,eda_software,5.71,35.0,2.0,2.0,0.06
+2024,Synopsys,SNPS,USA,eda_software,5.91,36.9,2.18,2.07,0.06
+2025,Synopsys,SNPS,USA,eda_software,6.81,39.2,2.67,2.38,0.07
+2026,Synopsys,SNPS,USA,eda_software,7.42,41.9,3.11,2.6,0.07
+2010,Cadence,CDNS,USA,eda_software,0.95,40.9,0.39,0.33,0.01
+2011,Cadence,CDNS,USA,eda_software,1.11,41.8,0.46,0.39,0.01
+2012,Cadence,CDNS,USA,eda_software,1.17,38.9,0.45,0.41,0.01
+2013,Cadence,CDNS,USA,eda_software,1.31,40.1,0.52,0.46,0.01
+2014,Cadence,CDNS,USA,eda_software,1.55,43.1,0.67,0.54,0.02
+2015,Cadence,CDNS,USA,eda_software,1.76,40.6,0.72,0.62,0.02
+2016,Cadence,CDNS,USA,eda_software,1.81,41.5,0.75,0.63,0.02
+2017,Cadence,CDNS,USA,eda_software,1.94,40.0,0.77,0.68,0.02
+2018,Cadence,CDNS,USA,eda_software,2.16,38.3,0.83,0.76,0.02
+2019,Cadence,CDNS,USA,eda_software,2.46,42.0,1.03,0.86,0.02
+2020,Cadence,CDNS,USA,eda_software,2.62,42.9,1.13,0.92,0.03
+2021,Cadence,CDNS,USA,eda_software,3.22,40.3,1.3,1.13,0.03
+2022,Cadence,CDNS,USA,eda_software,3.52,37.4,1.32,1.23,0.04
+2023,Cadence,CDNS,USA,eda_software,4.03,41.6,1.68,1.41,0.04
+2024,Cadence,CDNS,USA,eda_software,4.47,41.3,1.85,1.56,0.04
+2025,Cadence,CDNS,USA,eda_software,4.96,39.4,1.95,1.74,0.05
+2026,Cadence,CDNS,USA,eda_software,5.72,47.3,2.71,2.0,0.06
+2010,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,0.96,34.4,0.33,0.12,0.1
+2011,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,1.61,31.2,0.5,0.19,0.16
+2012,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,2.21,31.3,0.69,0.26,0.22
+2013,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,2.79,34.4,0.96,0.33,0.28
+2014,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,3.35,33.4,1.12,0.4,0.34
+2015,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,3.92,29.8,1.17,0.47,0.39
+2016,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,5.0,31.4,1.57,0.6,0.5
+2017,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,6.61,29.8,1.97,0.79,0.66
+2018,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,7.46,26.7,1.99,0.89,0.75
+2019,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,9.19,25.2,2.32,1.1,0.92
+2020,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,10.7,30.7,3.28,1.28,1.07
+2021,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,6.76,38.4,2.6,0.81,0.68
+2022,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,1.97,34.3,0.67,0.24,0.2
+2023,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,4.03,29.5,1.19,0.48,0.4
+2024,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,9.12,30.2,2.75,1.09,0.91
+2025,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,10.53,28.8,3.03,1.26,1.05
+2026,HiSilicon (Huawei),HUAWEI,CHN,fabless_diversified,11.51,25.4,2.92,1.38,1.15
+2017,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,0.1,24.2,0.02,0.01,0.04
+2018,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,0.29,30.9,0.09,0.03,0.1
+2019,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,0.51,36.3,0.19,0.05,0.18
+2020,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,1.23,42.7,0.52,0.12,0.43
+2021,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,2.1,41.5,0.87,0.21,0.73
+2022,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,4.12,42.4,1.74,0.41,1.44
+2023,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,5.17,27.0,1.4,0.52,1.81
+2024,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,6.62,31.6,2.09,0.66,2.32
+2025,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,7.5,26.2,1.97,0.75,2.62
+2026,Yangtze Memory (YMTC),YMTC,CHN,idm_memory,8.64,16.0,1.38,0.86,3.02
+2018,ChangXin Memory (CXMT),CXMT,CHN,idm_memory,0.31,33.4,0.1,0.03,0.11
+2019,ChangXin Memory (CXMT),CXMT,CHN,idm_memory,0.94,34.9,0.33,0.09,0.33
+2020,ChangXin Memory (CXMT),CXMT,CHN,idm_memory,1.45,38.3,0.55,0.14,0.51
+2021,ChangXin Memory (CXMT),CXMT,CHN,idm_memory,2.26,40.2,0.91,0.23,0.79
+2022,ChangXin Memory (CXMT),CXMT,CHN,idm_memory,3.1,37.6,1.17,0.31,1.09
+2023,ChangXin Memory (CXMT),CXMT,CHN,idm_memory,4.04,22.2,0.9,0.4,1.41
+2024,ChangXin Memory (CXMT),CXMT,CHN,idm_memory,5.07,30.0,1.52,0.51,1.77
+2025,ChangXin Memory (CXMT),CXMT,CHN,idm_memory,5.87,23.4,1.37,0.59,2.05
+2026,ChangXin Memory (CXMT),CXMT,CHN,idm_memory,6.96,17.6,1.22,0.7,2.44
+2010,Hua Hong,1347,CHN,foundry,0.63,39.7,0.25,0.05,0.28
+2011,Hua Hong,1347,CHN,foundry,0.62,33.7,0.21,0.05,0.28
+2012,Hua Hong,1347,CHN,foundry,0.62,39.2,0.24,0.05,0.28
+2013,Hua Hong,1347,CHN,foundry,0.65,44.1,0.29,0.05,0.29
+2014,Hua Hong,1347,CHN,foundry,0.68,43.9,0.3,0.05,0.3
+2015,Hua Hong,1347,CHN,foundry,0.7,40.1,0.28,0.06,0.32
+2016,Hua Hong,1347,CHN,foundry,0.76,40.0,0.31,0.06,0.34
+2017,Hua Hong,1347,CHN,foundry,0.88,33.0,0.29,0.07,0.39
+2018,Hua Hong,1347,CHN,foundry,0.85,38.4,0.33,0.07,0.38
+2019,Hua Hong,1347,CHN,foundry,0.93,42.1,0.39,0.07,0.42
+2020,Hua Hong,1347,CHN,foundry,0.97,38.8,0.38,0.08,0.44
+2021,Hua Hong,1347,CHN,foundry,1.78,43.1,0.77,0.14,0.8
+2022,Hua Hong,1347,CHN,foundry,2.51,42.9,1.08,0.2,1.13
+2023,Hua Hong,1347,CHN,foundry,2.32,38.3,0.89,0.19,1.04
+2024,Hua Hong,1347,CHN,foundry,1.94,40.3,0.78,0.16,0.87
+2025,Hua Hong,1347,CHN,foundry,2.2,44.4,0.98,0.18,0.99
+2026,Hua Hong,1347,CHN,foundry,2.32,35.7,0.83,0.19,1.05
+2019,Cerebras Systems,CRBR,USA,fabless_ai,0.0,8.9,0.0,0.0,0.0
+2020,Cerebras Systems,CRBR,USA,fabless_ai,0.0,5.5,0.0,0.0,0.0
+2021,Cerebras Systems,CRBR,USA,fabless_ai,0.1,7.4,0.01,0.05,0.0
+2022,Cerebras Systems,CRBR,USA,fabless_ai,0.22,15.4,0.03,0.11,0.0
+2023,Cerebras Systems,CRBR,USA,fabless_ai,0.3,8.9,0.03,0.15,0.0
+2024,Cerebras Systems,CRBR,USA,fabless_ai,0.77,4.3,0.03,0.39,0.01
+2025,Cerebras Systems,CRBR,USA,fabless_ai,1.64,7.0,0.12,0.82,0.02
+2026,Cerebras Systems,CRBR,USA,fabless_ai,2.49,5.2,0.13,1.25,0.02
+2019,Graphcore,GPHC,GBR,fabless_ai,0.0,10.4,0.0,0.0,0.0
+2020,Graphcore,GPHC,GBR,fabless_ai,0.0,11.3,0.0,0.0,0.0
+2021,Graphcore,GPHC,GBR,fabless_ai,0.07,12.6,0.01,0.03,0.0
+2022,Graphcore,GPHC,GBR,fabless_ai,0.05,11.9,0.01,0.02,0.0
+2023,Graphcore,GPHC,GBR,fabless_ai,0.05,5.9,0.0,0.02,0.0
+2024,Graphcore,GPHC,GBR,fabless_ai,0.05,11.1,0.01,0.02,0.0
+2025,Graphcore,GPHC,GBR,fabless_ai,0.06,9.6,0.01,0.03,0.0
+2026,Graphcore,GPHC,GBR,fabless_ai,0.07,13.0,0.01,0.04,0.0
+2020,Groq,GROQ,USA,fabless_ai,0.0,12.3,0.0,0.0,0.0
+2021,Groq,GROQ,USA,fabless_ai,0.0,15.9,0.0,0.0,0.0
+2022,Groq,GROQ,USA,fabless_ai,0.02,7.2,0.0,0.01,0.0
+2023,Groq,GROQ,USA,fabless_ai,0.04,6.8,0.0,0.02,0.0
+2024,Groq,GROQ,USA,fabless_ai,0.48,8.5,0.04,0.24,0.0
+2025,Groq,GROQ,USA,fabless_ai,1.27,9.7,0.12,0.63,0.01
+2026,Groq,GROQ,USA,fabless_ai,1.96,8.0,0.16,0.98,0.02
+2020,SambaNova,SN,USA,fabless_ai,0.0,7.4,0.0,0.0,0.0
+2021,SambaNova,SN,USA,fabless_ai,0.02,10.9,0.0,0.01,0.0
+2022,SambaNova,SN,USA,fabless_ai,0.05,8.5,0.0,0.03,0.0
+2023,SambaNova,SN,USA,fabless_ai,0.1,7.9,0.01,0.05,0.0
+2024,SambaNova,SN,USA,fabless_ai,0.37,5.9,0.02,0.18,0.0
+2025,SambaNova,SN,USA,fabless_ai,0.9,3.3,0.03,0.45,0.01
+2026,SambaNova,SN,USA,fabless_ai,1.45,14.0,0.2,0.72,0.01
+2020,Tenstorrent,TNS,USA,fabless_ai,0.0,13.9,0.0,0.0,0.0
+2021,Tenstorrent,TNS,USA,fabless_ai,0.01,12.3,0.0,0.01,0.0
+2022,Tenstorrent,TNS,USA,fabless_ai,0.05,11.6,0.01,0.02,0.0
+2023,Tenstorrent,TNS,USA,fabless_ai,0.1,8.3,0.01,0.05,0.0
+2024,Tenstorrent,TNS,USA,fabless_ai,0.31,11.7,0.04,0.15,0.0
+2025,Tenstorrent,TNS,USA,fabless_ai,0.74,6.6,0.05,0.37,0.01
+2026,Tenstorrent,TNS,USA,fabless_ai,1.16,10.3,0.12,0.58,0.01

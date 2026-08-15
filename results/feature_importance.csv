@@ -1,0 +1,40 @@
+Feature,Importance
+cat__company_Samsung Memory,22.631697731691318
+cat__fab_type_memory_DRAM,13.885333261884833
+cat__segment_idm_memory,11.008581502267413
+num__fab_age,9.50223962053573
+cat__country_iso3_KOR,9.364175056314227
+num__company_fab_age_ratio,6.835970514495523
+num__investment_score,4.216785651457089
+cat__company_SK Hynix,4.0526466444235005
+num__process_node_nm,2.734689202793724
+num__growth_potential,2.5998288722378575
+num__rd_ratio,2.3676030597846056
+num__revenue_usd_bn,1.6723963067915864
+cat__country_iso3_TWN,1.4631681707822728
+num__rd_spend_usd_bn,1.1215537182400164
+num__capex_usd_bn,1.0661458248032736
+num__innovation_score,0.8124224165649837
+num__capex_ratio,0.5986805696665544
+num__avg_memory_gb,0.4523577383282328
+cat__company_Yangtze Memory (YMTC),0.45194235825814827
+num__profit_margin,0.3972044968934897
+num__shipments_per_launch,0.36967876490115953
+num__avg_fp16_tflops,0.32590640457507736
+cat__company_Micron,0.2847574483663774
+num__ai_market_score,0.23598797055575216
+cat__fab_type_memory_NAND,0.19705842296319612
+num__ai_chip_launches,0.14847860662804518
+num__lowest_chip_price,0.13183181621762405
+num__sales_variation,0.12310086153110378
+num__price_index,0.11865741443795835
+cat__fab_type_logic_leading,0.11770562144387665
+num__geo_risk,0.11460404006882222
+cat__company_ChangXin Memory (CXMT),0.10164655491185116
+num__operating_income_ratio,0.09704935126133893
+num__worldwide_sales,0.09538560482720931
+num__revenue_per_ai_launch,0.0899999157502556
+num__performance_score,0.08962646723077607
+num__total_ai_shipments,0.04687787103091433
+cat__segment_foundry,0.04162120396721418
+num__ai_revenue_per_chip,0.03460294111700061

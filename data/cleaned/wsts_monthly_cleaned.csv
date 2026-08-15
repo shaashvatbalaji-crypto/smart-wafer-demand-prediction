@@ -1,0 +1,2426 @@
+Year,Region,Month,Sales_USD_1000
+1986,Americas,January,555850.0
+1986,Americas,February,633465.0
+1986,Americas,March,756220.0
+1986,Americas,April,689470.0
+1986,Americas,May,718336.0
+1986,Americas,June,797014.0
+1986,Americas,July,707784.0
+1986,Americas,August,697506.0
+1986,Americas,September,803392.0
+1986,Americas,October,702111.0
+1986,Americas,November,673104.0
+1986,Americas,December,774305.0
+1986,Europe,January,346467.0
+1986,Europe,February,401765.0
+1986,Europe,March,461912.0
+1986,Europe,April,436798.0
+1986,Europe,May,446171.0
+1986,Europe,June,472555.0
+1986,Europe,July,439444.0
+1986,Europe,August,426172.0
+1986,Europe,September,507467.0
+1986,Europe,October,493835.0
+1986,Europe,November,431645.0
+1986,Europe,December,479532.0
+1986,Japan,January,638547.0
+1986,Japan,February,750366.0
+1986,Japan,March,840215.0
+1986,Japan,April,838082.0
+1986,Japan,May,870515.0
+1986,Japan,June,922481.0
+1986,Japan,July,996881.0
+1986,Japan,August,914476.0
+1986,Japan,September,971103.0
+1986,Japan,October,949854.0
+1986,Japan,November,875638.0
+1986,Japan,December,882567.0
+1986,Asia Pacific,January,105050.0
+1986,Asia Pacific,February,115746.0
+1986,Asia Pacific,March,147968.0
+1986,Asia Pacific,April,156420.0
+1986,Asia Pacific,May,167537.0
+1986,Asia Pacific,June,185026.0
+1986,Asia Pacific,July,186067.0
+1986,Asia Pacific,August,187628.0
+1986,Asia Pacific,September,208132.0
+1986,Asia Pacific,October,196243.0
+1986,Asia Pacific,November,191042.0
+1986,Asia Pacific,December,205455.0
+1986,Worldwide,January,1645914.0
+1986,Worldwide,February,1901342.0
+1986,Worldwide,March,2206315.0
+1986,Worldwide,April,2120770.0
+1986,Worldwide,May,2202559.0
+1986,Worldwide,June,2377076.0
+1986,Worldwide,July,2330176.0
+1986,Worldwide,August,2225782.0
+1986,Worldwide,September,2490094.0
+1986,Worldwide,October,2342043.0
+1986,Worldwide,November,2171429.0
+1986,Worldwide,December,2341859.0
+1987,Americas,January,662316.0
+1987,Americas,February,695384.0
+1987,Americas,March,879953.0
+1987,Americas,April,783070.0
+1987,Americas,May,819071.0
+1987,Americas,June,934011.0
+1987,Americas,July,851790.0
+1987,Americas,August,875491.0
+1987,Americas,September,996212.0
+1987,Americas,October,896818.0
+1987,Americas,November,879017.0
+1987,Americas,December,986071.0
+1987,Europe,January,446216.0
+1987,Europe,February,460982.0
+1987,Europe,March,551635.0
+1987,Europe,April,483195.0
+1987,Europe,May,522679.0
+1987,Europe,June,542275.0
+1987,Europe,July,459319.0
+1987,Europe,August,456098.0
+1987,Europe,September,587787.0
+1987,Europe,October,538082.0
+1987,Europe,November,559245.0
+1987,Europe,December,580580.0
+1987,Japan,January,839651.0
+1987,Japan,February,885850.0
+1987,Japan,March,947246.0
+1987,Japan,April,937335.0
+1987,Japan,May,980361.0
+1987,Japan,June,1064083.0
+1987,Japan,July,1093292.0
+1987,Japan,August,1000056.0
+1987,Japan,September,1157494.0
+1987,Japan,October,1190420.0
+1987,Japan,November,1271073.0
+1987,Japan,December,1364929.0
+1987,Asia Pacific,January,189473.0
+1987,Asia Pacific,February,218174.0
+1987,Asia Pacific,March,258402.0
+1987,Asia Pacific,April,270392.0
+1987,Asia Pacific,May,285919.0
+1987,Asia Pacific,June,307717.0
+1987,Asia Pacific,July,299726.0
+1987,Asia Pacific,August,290902.0
+1987,Asia Pacific,September,300332.0
+1987,Asia Pacific,October,296872.0
+1987,Asia Pacific,November,304696.0
+1987,Asia Pacific,December,328760.0
+1987,Worldwide,January,2137656.0
+1987,Worldwide,February,2260390.0
+1987,Worldwide,March,2637236.0
+1987,Worldwide,April,2473992.0
+1987,Worldwide,May,2608030.0
+1987,Worldwide,June,2848086.0
+1987,Worldwide,July,2704127.0
+1987,Worldwide,August,2622547.0
+1987,Worldwide,September,3041825.0
+1987,Worldwide,October,2922192.0
+1987,Worldwide,November,3014031.0
+1987,Worldwide,December,3260340.0
+1988,Americas,January,905615.0
+1988,Americas,February,960564.0
+1988,Americas,March,1128942.0
+1988,Americas,April,1016859.0
+1988,Americas,May,1081031.0
+1988,Americas,June,1248108.0
+1988,Americas,July,1119216.0
+1988,Americas,August,1162241.0
+1988,Americas,September,1276955.0
+1988,Americas,October,1122817.0
+1988,Americas,November,1162138.0
+1988,Americas,December,1233554.0
+1988,Europe,January,549355.0
+1988,Europe,February,619132.0
+1988,Europe,March,755057.0
+1988,Europe,April,646877.0
+1988,Europe,May,666687.0
+1988,Europe,June,766987.0
+1988,Europe,July,586428.0
+1988,Europe,August,608248.0
+1988,Europe,September,751428.0
+1988,Europe,October,685134.0
+1988,Europe,November,732369.0
+1988,Europe,December,736179.0
+1988,Japan,January,1287746.0
+1988,Japan,February,1318583.0
+1988,Japan,March,1400992.0
+1988,Japan,April,1443163.0
+1988,Japan,May,1443800.0
+1988,Japan,June,1596692.0
+1988,Japan,July,1534711.0
+1988,Japan,August,1449729.0
+1988,Japan,September,1531053.0
+1988,Japan,October,1656425.0
+1988,Japan,November,1716893.0
+1988,Japan,December,1728988.0
+1988,Asia Pacific,January,333531.0
+1988,Asia Pacific,February,353147.0
+1988,Asia Pacific,March,425174.0
+1988,Asia Pacific,April,413350.0
+1988,Asia Pacific,May,417382.0
+1988,Asia Pacific,June,473157.0
+1988,Asia Pacific,July,449794.0
+1988,Asia Pacific,August,469838.0
+1988,Asia Pacific,September,503026.0
+1988,Asia Pacific,October,491929.0
+1988,Asia Pacific,November,519455.0
+1988,Asia Pacific,December,524330.0
+1988,Worldwide,January,3076247.0
+1988,Worldwide,February,3251426.0
+1988,Worldwide,March,3710165.0
+1988,Worldwide,April,3520249.0
+1988,Worldwide,May,3608900.0
+1988,Worldwide,June,4084944.0
+1988,Worldwide,July,3690149.0
+1988,Worldwide,August,3690056.0
+1988,Worldwide,September,4062462.0
+1988,Worldwide,October,3956305.0
+1988,Worldwide,November,4130855.0
+1988,Worldwide,December,4223051.0
+1989,Americas,January,1111249.0
+1989,Americas,February,1206446.0
+1989,Americas,March,1370839.0
+1989,Americas,April,1245328.0
+1989,Americas,May,1233652.0
+1989,Americas,June,1361968.0
+1989,Americas,July,1153881.0
+1989,Americas,August,1184987.0
+1989,Americas,September,1339389.0
+1989,Americas,October,1187775.0
+1989,Americas,November,1208219.0
+1989,Americas,December,1225302.0
+1989,Europe,January,711490.0
+1989,Europe,February,756220.0
+1989,Europe,March,869481.0
+1989,Europe,April,770203.0
+1989,Europe,May,715541.0
+1989,Europe,June,809640.0
+1989,Europe,July,640689.0
+1989,Europe,August,635671.0
+1989,Europe,September,846311.0
+1989,Europe,October,733167.0
+1989,Europe,November,710850.0
+1989,Europe,December,741299.0
+1989,Japan,January,1551335.0
+1989,Japan,February,1594165.0
+1989,Japan,March,1641383.0
+1989,Japan,April,1654175.0
+1989,Japan,May,1561323.0
+1989,Japan,June,1624493.0
+1989,Japan,July,1632158.0
+1989,Japan,August,1538493.0
+1989,Japan,September,1581367.0
+1989,Japan,October,1630395.0
+1989,Japan,November,1573962.0
+1989,Japan,December,1562514.0
+1989,Asia Pacific,January,452290.0
+1989,Asia Pacific,February,448872.0
+1989,Asia Pacific,March,534755.0
+1989,Asia Pacific,April,483634.0
+1989,Asia Pacific,May,487818.0
+1989,Asia Pacific,June,537878.0
+1989,Asia Pacific,July,468980.0
+1989,Asia Pacific,August,465634.0
+1989,Asia Pacific,September,516908.0
+1989,Asia Pacific,October,467975.0
+1989,Asia Pacific,November,471064.0
+1989,Asia Pacific,December,511758.0
+1989,Worldwide,January,3826364.0
+1989,Worldwide,February,4005703.0
+1989,Worldwide,March,4416458.0
+1989,Worldwide,April,4153340.0
+1989,Worldwide,May,3998334.0
+1989,Worldwide,June,4333979.0
+1989,Worldwide,July,3895708.0
+1989,Worldwide,August,3824785.0
+1989,Worldwide,September,4283975.0
+1989,Worldwide,October,4019312.0
+1989,Worldwide,November,3964095.0
+1989,Worldwide,December,4040873.0
+1990,Americas,January,1055827.0
+1990,Americas,February,1107641.0
+1990,Americas,March,1326514.0
+1990,Americas,April,1145964.0
+1990,Americas,May,1193839.0
+1990,Americas,June,1317676.0
+1990,Americas,July,1130835.0
+1990,Americas,August,1229168.0
+1990,Americas,September,1335936.0
+1990,Americas,October,1206712.0
+1990,Americas,November,1182091.0
+1990,Americas,December,1213234.0
+1990,Europe,January,700723.0
+1990,Europe,February,743146.0
+1990,Europe,March,900981.0
+1990,Europe,April,744998.0
+1990,Europe,May,772192.0
+1990,Europe,June,891609.0
+1990,Europe,July,738098.0
+1990,Europe,August,727183.0
+1990,Europe,September,912755.0
+1990,Europe,October,819633.0
+1990,Europe,November,808928.0
+1990,Europe,December,838388.0
+1990,Japan,January,1421004.0
+1990,Japan,February,1448870.0
+1990,Japan,March,1472713.0
+1990,Japan,April,1401811.0
+1990,Japan,May,1456389.0
+1990,Japan,June,1617484.0
+1990,Japan,July,1684396.0
+1990,Japan,August,1585911.0
+1990,Japan,September,1825002.0
+1990,Japan,October,1909542.0
+1990,Japan,November,1924936.0
+1990,Japan,December,1815059.0
+1990,Asia Pacific,January,424172.0
+1990,Asia Pacific,February,482574.0
+1990,Asia Pacific,March,570160.0
+1990,Asia Pacific,April,523270.0
+1990,Asia Pacific,May,564258.0
+1990,Asia Pacific,June,616154.0
+1990,Asia Pacific,July,582145.0
+1990,Asia Pacific,August,609515.0
+1990,Asia Pacific,September,669269.0
+1990,Asia Pacific,October,628863.0
+1990,Asia Pacific,November,605038.0
+1990,Asia Pacific,December,636326.0
+1990,Worldwide,January,3601726.0
+1990,Worldwide,February,3782231.0
+1990,Worldwide,March,4270368.0
+1990,Worldwide,April,3816043.0
+1990,Worldwide,May,3986678.0
+1990,Worldwide,June,4442923.0
+1990,Worldwide,July,4135474.0
+1990,Worldwide,August,4151777.0
+1990,Worldwide,September,4742962.0
+1990,Worldwide,October,4564750.0
+1990,Worldwide,November,4520993.0
+1990,Worldwide,December,4503007.0
+1991,Americas,January,1143298.0
+1991,Americas,February,1217353.0
+1991,Americas,March,1426972.0
+1991,Americas,April,1208734.0
+1991,Americas,May,1232198.0
+1991,Americas,June,1390279.0
+1991,Americas,July,1151781.0
+1991,Americas,August,1229369.0
+1991,Americas,September,1480484.0
+1991,Americas,October,1210419.0
+1991,Americas,November,1291194.0
+1991,Americas,December,1394192.0
+1991,Europe,January,807995.0
+1991,Europe,February,874934.0
+1991,Europe,March,997469.0
+1991,Europe,April,806641.0
+1991,Europe,May,816393.0
+1991,Europe,June,952982.0
+1991,Europe,July,699730.0
+1991,Europe,August,725496.0
+1991,Europe,September,977120.0
+1991,Europe,October,802799.0
+1991,Europe,November,828180.0
+1991,Europe,December,825121.0
+1991,Japan,January,1612391.0
+1991,Japan,February,1745898.0
+1991,Japan,March,1787181.0
+1991,Japan,April,1680403.0
+1991,Japan,May,1697557.0
+1991,Japan,June,1804178.0
+1991,Japan,July,1812379.0
+1991,Japan,August,1673650.0
+1991,Japan,September,1854049.0
+1991,Japan,October,1782817.0
+1991,Japan,November,1758915.0
+1991,Japan,December,1725581.0
+1991,Asia Pacific,January,567864.0
+1991,Asia Pacific,February,601440.0
+1991,Asia Pacific,March,689775.0
+1991,Asia Pacific,April,619630.0
+1991,Asia Pacific,May,659335.0
+1991,Asia Pacific,June,761638.0
+1991,Asia Pacific,July,668927.0
+1991,Asia Pacific,August,669731.0
+1991,Asia Pacific,September,773053.0
+1991,Asia Pacific,October,697074.0
+1991,Asia Pacific,November,713730.0
+1991,Asia Pacific,December,759125.0
+1991,Worldwide,January,4131548.0
+1991,Worldwide,February,4439625.0
+1991,Worldwide,March,4901397.0
+1991,Worldwide,April,4315408.0
+1991,Worldwide,May,4405483.0
+1991,Worldwide,June,4909077.0
+1991,Worldwide,July,4332817.0
+1991,Worldwide,August,4298246.0
+1991,Worldwide,September,5084706.0
+1991,Worldwide,October,4493109.0
+1991,Worldwide,November,4592019.0
+1991,Worldwide,December,4704019.0
+1992,Americas,January,1283004.0
+1992,Americas,February,1305160.0
+1992,Americas,March,1606288.0
+1992,Americas,April,1377033.0
+1992,Americas,May,1386386.0
+1992,Americas,June,1627983.0
+1992,Americas,July,1417599.0
+1992,Americas,August,1490870.0
+1992,Americas,September,1811903.0
+1992,Americas,October,1560184.0
+1992,Americas,November,1657251.0
+1992,Americas,December,1887095.0
+1992,Europe,January,865778.0
+1992,Europe,February,865850.0
+1992,Europe,March,1007745.0
+1992,Europe,April,848457.0
+1992,Europe,May,867857.0
+1992,Europe,June,1025466.0
+1992,Europe,July,834451.0
+1992,Europe,August,883351.0
+1992,Europe,September,1188526.0
+1992,Europe,October,1006966.0
+1992,Europe,November,1020525.0
+1992,Europe,December,1055456.0
+1992,Japan,January,1546622.0
+1992,Japan,February,1510697.0
+1992,Japan,March,1516198.0
+1992,Japan,April,1439648.0
+1992,Japan,May,1462557.0
+1992,Japan,June,1689422.0
+1992,Japan,July,1781775.0
+1992,Japan,August,1596386.0
+1992,Japan,September,1840636.0
+1992,Japan,October,1754525.0
+1992,Japan,November,1658238.0
+1992,Japan,December,1599414.0
+1992,Asia Pacific,January,720399.0
+1992,Asia Pacific,February,735101.0
+1992,Asia Pacific,March,848402.0
+1992,Asia Pacific,April,769133.0
+1992,Asia Pacific,May,846552.0
+1992,Asia Pacific,June,964585.0
+1992,Asia Pacific,July,844812.0
+1992,Asia Pacific,August,868982.0
+1992,Asia Pacific,September,1018271.0
+1992,Asia Pacific,October,912614.0
+1992,Asia Pacific,November,993549.0
+1992,Asia Pacific,December,1065256.0
+1992,Worldwide,January,4415803.0
+1992,Worldwide,February,4416808.0
+1992,Worldwide,March,4978633.0
+1992,Worldwide,April,4434271.0
+1992,Worldwide,May,4563352.0
+1992,Worldwide,June,5307456.0
+1992,Worldwide,July,4878637.0
+1992,Worldwide,August,4839589.0
+1992,Worldwide,September,5859336.0
+1992,Worldwide,October,5234289.0
+1992,Worldwide,November,5329563.0
+1992,Worldwide,December,5607221.0
+1993,Americas,January,1576795.0
+1993,Americas,February,1783951.0
+1993,Americas,March,2201464.0
+1993,Americas,April,1815346.0
+1993,Americas,May,1898999.0
+1993,Americas,June,2379808.0
+1993,Americas,July,1854456.0
+1993,Americas,August,2039793.0
+1993,Americas,September,2539367.0
+1993,Americas,October,2015423.0
+1993,Americas,November,2136193.0
+1993,Americas,December,2502413.0
+1993,Europe,January,936794.0
+1993,Europe,February,1048188.0
+1993,Europe,March,1317355.0
+1993,Europe,April,1105437.0
+1993,Europe,May,1174687.0
+1993,Europe,June,1351115.0
+1993,Europe,July,1085722.0
+1993,Europe,August,1110055.0
+1993,Europe,September,1480152.0
+1993,Europe,October,1276641.0
+1993,Europe,November,1339624.0
+1993,Europe,December,1373228.0
+1993,Japan,January,1473117.0
+1993,Japan,February,1582069.0
+1993,Japan,March,1759146.0
+1993,Japan,April,1810633.0
+1993,Japan,May,1848633.0
+1993,Japan,June,2187141.0
+1993,Japan,July,2217725.0
+1993,Japan,August,2104810.0
+1993,Japan,September,2353363.0
+1993,Japan,October,2175919.0
+1993,Japan,November,2178841.0
+1993,Japan,December,2106991.0
+1993,Asia Pacific,January,855980.0
+1993,Asia Pacific,February,1010749.0
+1993,Asia Pacific,March,1167016.0
+1993,Asia Pacific,April,1094295.0
+1993,Asia Pacific,May,1116039.0
+1993,Asia Pacific,June,1259364.0
+1993,Asia Pacific,July,1207058.0
+1993,Asia Pacific,August,1266067.0
+1993,Asia Pacific,September,1409681.0
+1993,Asia Pacific,October,1205876.0
+1993,Asia Pacific,November,1261237.0
+1993,Asia Pacific,December,1314929.0
+1993,Worldwide,January,4842686.0
+1993,Worldwide,February,5424957.0
+1993,Worldwide,March,6444981.0
+1993,Worldwide,April,5825711.0
+1993,Worldwide,May,6038358.0
+1993,Worldwide,June,7177428.0
+1993,Worldwide,July,6364959.0
+1993,Worldwide,August,6520724.0
+1993,Worldwide,September,7782563.0
+1993,Worldwide,October,6673859.0
+1993,Worldwide,November,6915895.0
+1993,Worldwide,December,7297560.0
+1994,Americas,January,2195094.0
+1994,Americas,February,2336042.0
+1994,Americas,March,2775581.0
+1994,Americas,April,2508645.0
+1994,Americas,May,2514867.0
+1994,Americas,June,3051443.0
+1994,Americas,July,2462960.0
+1994,Americas,August,2825889.0
+1994,Americas,September,3425229.0
+1994,Americas,October,2986537.0
+1994,Americas,November,2962800.0
+1994,Americas,December,3516499.0
+1994,Europe,January,1291004.0
+1994,Europe,February,1357721.0
+1994,Europe,March,1589355.0
+1994,Europe,April,1462097.0
+1994,Europe,May,1478946.0
+1994,Europe,June,1807893.0
+1994,Europe,July,1398823.0
+1994,Europe,August,1509781.0
+1994,Europe,September,2025441.0
+1994,Europe,October,1870808.0
+1994,Europe,November,1939709.0
+1994,Europe,December,2004707.0
+1994,Japan,January,1898178.0
+1994,Japan,February,2033128.0
+1994,Japan,March,2308591.0
+1994,Japan,April,2255227.0
+1994,Japan,May,2268816.0
+1994,Japan,June,2565505.0
+1994,Japan,July,2631936.0
+1994,Japan,August,2468047.0
+1994,Japan,September,2768472.0
+1994,Japan,October,2742697.0
+1994,Japan,November,2806029.0
+1994,Japan,December,2659723.0
+1994,Asia Pacific,January,1282828.0
+1994,Asia Pacific,February,1262962.0
+1994,Asia Pacific,March,1543314.0
+1994,Asia Pacific,April,1460412.0
+1994,Asia Pacific,May,1515274.0
+1994,Asia Pacific,June,1733660.0
+1994,Asia Pacific,July,1537993.0
+1994,Asia Pacific,August,1645354.0
+1994,Asia Pacific,September,1857564.0
+1994,Asia Pacific,October,1672517.0
+1994,Asia Pacific,November,1752811.0
+1994,Asia Pacific,December,1909684.0
+1994,Worldwide,January,6667104.0
+1994,Worldwide,February,6989853.0
+1994,Worldwide,March,8216841.0
+1994,Worldwide,April,7686381.0
+1994,Worldwide,May,7777903.0
+1994,Worldwide,June,9158501.0
+1994,Worldwide,July,8031712.0
+1994,Worldwide,August,8449071.0
+1994,Worldwide,September,10076706.0
+1994,Worldwide,October,9272559.0
+1994,Worldwide,November,9461349.0
+1994,Worldwide,December,10090613.0
+1995,Americas,January,2975184.0
+1995,Americas,February,3198121.0
+1995,Americas,March,3994742.0
+1995,Americas,April,3346810.0
+1995,Americas,May,3451050.0
+1995,Americas,June,4355697.0
+1995,Americas,July,3398858.0
+1995,Americas,August,3965714.0
+1995,Americas,September,4852650.0
+1995,Americas,October,4114971.0
+1995,Americas,November,4386548.0
+1995,Americas,December,4958117.0
+1995,Europe,January,1887830.0
+1995,Europe,February,2006521.0
+1995,Europe,March,2485883.0
+1995,Europe,April,2139874.0
+1995,Europe,May,2190945.0
+1995,Europe,June,2613929.0
+1995,Europe,July,2064455.0
+1995,Europe,August,2229756.0
+1995,Europe,September,2851230.0
+1995,Europe,October,2492094.0
+1995,Europe,November,2644315.0
+1995,Europe,December,2591838.0
+1995,Japan,January,2518007.0
+1995,Japan,February,2763394.0
+1995,Japan,March,3166605.0
+1995,Japan,April,3381908.0
+1995,Japan,May,3323489.0
+1995,Japan,June,3811247.0
+1995,Japan,July,3592339.0
+1995,Japan,August,3273628.0
+1995,Japan,September,3422927.0
+1995,Japan,October,3378168.0
+1995,Japan,November,3432276.0
+1995,Japan,December,3602689.0
+1995,Asia Pacific,January,1842393.0
+1995,Asia Pacific,February,2043788.0
+1995,Asia Pacific,March,2469688.0
+1995,Asia Pacific,April,2285955.0
+1995,Asia Pacific,May,2408738.0
+1995,Asia Pacific,June,2821276.0
+1995,Asia Pacific,July,2432135.0
+1995,Asia Pacific,August,2572269.0
+1995,Asia Pacific,September,2749308.0
+1995,Asia Pacific,October,2570824.0
+1995,Asia Pacific,November,2669079.0
+1995,Asia Pacific,December,2674418.0
+1995,Worldwide,January,9223414.0
+1995,Worldwide,February,10011824.0
+1995,Worldwide,March,12116918.0
+1995,Worldwide,April,11154547.0
+1995,Worldwide,May,11374222.0
+1995,Worldwide,June,13602149.0
+1995,Worldwide,July,11487787.0
+1995,Worldwide,August,12041368.0
+1995,Worldwide,September,13876115.0
+1995,Worldwide,October,12556058.0
+1995,Worldwide,November,13132217.0
+1995,Worldwide,December,13827062.0
+1996,Americas,January,3675343.0
+1996,Americas,February,3944980.0
+1996,Americas,March,4567057.0
+1996,Americas,April,3205334.0
+1996,Americas,May,3248067.0
+1996,Americas,June,3625373.0
+1996,Americas,July,2787850.0
+1996,Americas,August,3126662.0
+1996,Americas,September,3909092.0
+1996,Americas,October,3314033.0
+1996,Americas,November,3398109.0
+1996,Americas,December,3877116.0
+1996,Europe,January,2452042.0
+1996,Europe,February,2545294.0
+1996,Europe,March,2824629.0
+1996,Europe,April,2207867.0
+1996,Europe,May,2073280.0
+1996,Europe,June,2310978.0
+1996,Europe,July,1746097.0
+1996,Europe,August,1832233.0
+1996,Europe,September,2571859.0
+1996,Europe,October,2296102.0
+1996,Europe,November,2265380.0
+1996,Europe,December,2436228.0
+1996,Japan,January,2866624.0
+1996,Japan,February,3000074.0
+1996,Japan,March,3203510.0
+1996,Japan,April,2718915.0
+1996,Japan,May,2730779.0
+1996,Japan,June,2954049.0
+1996,Japan,July,2714929.0
+1996,Japan,August,2592154.0
+1996,Japan,September,3028488.0
+1996,Japan,October,2680685.0
+1996,Japan,November,2848916.0
+1996,Japan,December,2836114.0
+1996,Asia Pacific,January,2412289.0
+1996,Asia Pacific,February,2204552.0
+1996,Asia Pacific,March,2623579.0
+1996,Asia Pacific,April,2190414.0
+1996,Asia Pacific,May,2101610.0
+1996,Asia Pacific,June,2440959.0
+1996,Asia Pacific,July,2002191.0
+1996,Asia Pacific,August,2079751.0
+1996,Asia Pacific,September,2478693.0
+1996,Asia Pacific,October,2197499.0
+1996,Asia Pacific,November,2292074.0
+1996,Asia Pacific,December,2526581.0
+1996,Worldwide,January,11406298.0
+1996,Worldwide,February,11694900.0
+1996,Worldwide,March,13218775.0
+1996,Worldwide,April,10322530.0
+1996,Worldwide,May,10153736.0
+1996,Worldwide,June,11331358.0
+1996,Worldwide,July,9251067.0
+1996,Worldwide,August,9630800.0
+1996,Worldwide,September,11988132.0
+1996,Worldwide,October,10488318.0
+1996,Worldwide,November,10804479.0
+1996,Worldwide,December,11676039.0
+1997,Americas,January,3030591.0
+1997,Americas,February,3363775.0
+1997,Americas,March,4647195.0
+1997,Americas,April,3371540.0
+1997,Americas,May,3732943.0
+1997,Americas,June,4462311.0
+1997,Americas,July,3380788.0
+1997,Americas,August,3765124.0
+1997,Americas,September,4686234.0
+1997,Americas,October,3479007.0
+1997,Americas,November,3760475.0
+1997,Americas,December,4170911.0
+1997,Europe,January,2119212.0
+1997,Europe,February,2213728.0
+1997,Europe,March,2791913.0
+1997,Europe,April,2179595.0
+1997,Europe,May,2174539.0
+1997,Europe,June,2755834.0
+1997,Europe,July,2000471.0
+1997,Europe,August,2095908.0
+1997,Europe,September,3052165.0
+1997,Europe,October,2461922.0
+1997,Europe,November,2554419.0
+1997,Europe,December,2689093.0
+1997,Japan,January,2409249.0
+1997,Japan,February,2493755.0
+1997,Japan,March,2858376.0
+1997,Japan,April,2322244.0
+1997,Japan,May,2713631.0
+1997,Japan,June,3251312.0
+1997,Japan,July,2849744.0
+1997,Japan,August,2595026.0
+1997,Japan,September,3001634.0
+1997,Japan,October,2636161.0
+1997,Japan,November,2509186.0
+1997,Japan,December,2439064.0
+1997,Asia Pacific,January,1952130.0
+1997,Asia Pacific,February,2038418.0
+1997,Asia Pacific,March,2984934.0
+1997,Asia Pacific,April,2165731.0
+1997,Asia Pacific,May,2432448.0
+1997,Asia Pacific,June,2797763.0
+1997,Asia Pacific,July,2397599.0
+1997,Asia Pacific,August,2566652.0
+1997,Asia Pacific,September,3097224.0
+1997,Asia Pacific,October,2533531.0
+1997,Asia Pacific,November,2569883.0
+1997,Asia Pacific,December,2647733.0
+1997,Worldwide,January,9511182.0
+1997,Worldwide,February,10109676.0
+1997,Worldwide,March,13282418.0
+1997,Worldwide,April,10039110.0
+1997,Worldwide,May,11053561.0
+1997,Worldwide,June,13267220.0
+1997,Worldwide,July,10628604.0
+1997,Worldwide,August,11022709.0
+1997,Worldwide,September,13837257.0
+1997,Worldwide,October,11110621.0
+1997,Worldwide,November,11393962.0
+1997,Worldwide,December,11946800.0
+1998,Americas,January,3133805.0
+1998,Americas,February,3335998.0
+1998,Americas,March,3853748.0
+1998,Americas,April,3021827.0
+1998,Americas,May,2949506.0
+1998,Americas,June,3818223.0
+1998,Americas,July,2877577.0
+1998,Americas,August,3271366.0
+1998,Americas,September,4210405.0
+1998,Americas,October,3398594.0
+1998,Americas,November,3478136.0
+1998,Americas,December,4082741.0
+1998,Europe,January,2296305.0
+1998,Europe,February,2315488.0
+1998,Europe,March,2728293.0
+1998,Europe,April,2202143.0
+1998,Europe,May,2081210.0
+1998,Europe,June,2585314.0
+1998,Europe,July,1984717.0
+1998,Europe,August,2122412.0
+1998,Europe,September,2998842.0
+1998,Europe,October,2621688.0
+1998,Europe,November,2684199.0
+1998,Europe,December,2785653.0
+1998,Japan,January,2107819.0
+1998,Japan,February,2175518.0
+1998,Japan,March,2429828.0
+1998,Japan,April,2000880.0
+1998,Japan,May,1960964.0
+1998,Japan,June,2200326.0
+1998,Japan,July,1998234.0
+1998,Japan,August,1824718.0
+1998,Japan,September,2271433.0
+1998,Japan,October,2346921.0
+1998,Japan,November,2274550.0
+1998,Japan,December,2329826.0
+1998,Asia Pacific,January,2019984.0
+1998,Asia Pacific,February,2272918.0
+1998,Asia Pacific,March,2698388.0
+1998,Asia Pacific,April,2314450.0
+1998,Asia Pacific,May,2037949.0
+1998,Asia Pacific,June,2431241.0
+1998,Asia Pacific,July,2109965.0
+1998,Asia Pacific,August,2241523.0
+1998,Asia Pacific,September,2790774.0
+1998,Asia Pacific,October,2507198.0
+1998,Asia Pacific,November,2605070.0
+1998,Asia Pacific,December,2823332.0
+1998,Worldwide,January,9557913.0
+1998,Worldwide,February,10099922.0
+1998,Worldwide,March,11710257.0
+1998,Worldwide,April,9539300.0
+1998,Worldwide,May,9029629.0
+1998,Worldwide,June,11035104.0
+1998,Worldwide,July,8970493.0
+1998,Worldwide,August,9460019.0
+1998,Worldwide,September,12271454.0
+1998,Worldwide,October,10874401.0
+1998,Worldwide,November,11041955.0
+1998,Worldwide,December,12021552.0
+1999,Americas,January,3219522.0
+1999,Americas,February,3373861.0
+1999,Americas,March,4259443.0
+1999,Americas,April,3281477.0
+1999,Americas,May,3435805.0
+1999,Americas,June,4278314.0
+1999,Americas,July,3617796.0
+1999,Americas,August,3817852.0
+1999,Americas,September,4637938.0
+1999,Americas,October,4086671.0
+1999,Americas,November,4200511.0
+1999,Americas,December,5268690.0
+1999,Europe,January,2294293.0
+1999,Europe,February,2412757.0
+1999,Europe,March,2890815.0
+1999,Europe,April,2149507.0
+1999,Europe,May,2206092.0
+1999,Europe,June,2623049.0
+1999,Europe,July,2233808.0
+1999,Europe,August,2467182.0
+1999,Europe,September,3276095.0
+1999,Europe,October,2791699.0
+1999,Europe,November,3133424.0
+1999,Europe,December,3402553.0
+1999,Japan,January,2280451.0
+1999,Japan,February,2304261.0
+1999,Japan,March,2677624.0
+1999,Japan,April,2306819.0
+1999,Japan,May,2371840.0
+1999,Japan,June,2700963.0
+1999,Japan,July,2610182.0
+1999,Japan,August,2607673.0
+1999,Japan,September,3149993.0
+1999,Japan,October,3114181.0
+1999,Japan,November,3300784.0
+1999,Japan,December,3410326.0
+1999,Asia Pacific,January,2476532.0
+1999,Asia Pacific,February,2363997.0
+1999,Asia Pacific,March,2989220.0
+1999,Asia Pacific,April,2628275.0
+1999,Asia Pacific,May,2716116.0
+1999,Asia Pacific,June,3007709.0
+1999,Asia Pacific,July,2780811.0
+1999,Asia Pacific,August,2989192.0
+1999,Asia Pacific,September,3827276.0
+1999,Asia Pacific,October,3397875.0
+1999,Asia Pacific,November,3791692.0
+1999,Asia Pacific,December,4215605.0
+1999,Worldwide,January,10270798.0
+1999,Worldwide,February,10454876.0
+1999,Worldwide,March,12817102.0
+1999,Worldwide,April,10366078.0
+1999,Worldwide,May,10729853.0
+1999,Worldwide,June,12610035.0
+1999,Worldwide,July,11242597.0
+1999,Worldwide,August,11881899.0
+1999,Worldwide,September,14891302.0
+1999,Worldwide,October,13390426.0
+1999,Worldwide,November,14426411.0
+1999,Worldwide,December,16297174.0
+2000,Americas,January,4132023.0
+2000,Americas,February,4070165.0
+2000,Americas,March,5594723.0
+2000,Americas,April,4257407.0
+2000,Americas,May,4915747.0
+2000,Americas,June,6756937.0
+2000,Americas,July,4947587.0
+2000,Americas,August,5821267.0
+2000,Americas,September,6923671.0
+2000,Americas,October,4948717.0
+2000,Americas,November,4936959.0
+2000,Americas,December,6766156.0
+2000,Europe,January,2949840.0
+2000,Europe,February,3083193.0
+2000,Europe,March,3858674.0
+2000,Europe,April,3060428.0
+2000,Europe,May,3275103.0
+2000,Europe,June,4040056.0
+2000,Europe,July,3007787.0
+2000,Europe,August,3613962.0
+2000,Europe,September,4244418.0
+2000,Europe,October,3525230.0
+2000,Europe,November,3634755.0
+2000,Europe,December,4015491.0
+2000,Japan,January,3158416.0
+2000,Japan,February,3246422.0
+2000,Japan,March,3655218.0
+2000,Japan,April,3381266.0
+2000,Japan,May,3552574.0
+2000,Japan,June,4199465.0
+2000,Japan,July,3913499.0
+2000,Japan,August,4035747.0
+2000,Japan,September,4690269.0
+2000,Japan,October,4334285.0
+2000,Japan,November,4256402.0
+2000,Japan,December,4325783.0
+2000,Asia Pacific,January,3550964.0
+2000,Asia Pacific,February,3441499.0
+2000,Asia Pacific,March,4468914.0
+2000,Asia Pacific,April,3735897.0
+2000,Asia Pacific,May,3953033.0
+2000,Asia Pacific,June,5093919.0
+2000,Asia Pacific,July,4221957.0
+2000,Asia Pacific,August,4594272.0
+2000,Asia Pacific,September,5291625.0
+2000,Asia Pacific,October,3924623.0
+2000,Asia Pacific,November,4111899.0
+2000,Asia Pacific,December,4875379.0
+2000,Worldwide,January,13791243.0
+2000,Worldwide,February,13841279.0
+2000,Worldwide,March,17577529.0
+2000,Worldwide,April,14434998.0
+2000,Worldwide,May,15696457.0
+2000,Worldwide,June,20090377.0
+2000,Worldwide,July,16090830.0
+2000,Worldwide,August,18065248.0
+2000,Worldwide,September,21149983.0
+2000,Worldwide,October,16732855.0
+2000,Worldwide,November,16940015.0
+2000,Worldwide,December,19982809.0
+2001,Americas,January,3664548.0
+2001,Americas,February,3811278.0
+2001,Americas,March,4865580.0
+2001,Americas,April,2615034.0
+2001,Americas,May,2575637.0
+2001,Americas,June,3514163.0
+2001,Americas,July,1978417.0
+2001,Americas,August,2308767.0
+2001,Americas,September,3028710.0
+2001,Americas,October,2207125.0
+2001,Americas,November,2268857.0
+2001,Americas,December,2940332.0
+2001,Europe,January,3052845.0
+2001,Europe,February,2965906.0
+2001,Europe,March,3819818.0
+2001,Europe,April,2439495.0
+2001,Europe,May,2196459.0
+2001,Europe,June,2870184.0
+2001,Europe,July,1692238.0
+2001,Europe,August,1768516.0
+2001,Europe,September,2822728.0
+2001,Europe,October,2014167.0
+2001,Europe,November,2119288.0
+2001,Europe,December,2454622.0
+2001,Japan,January,3532288.0
+2001,Japan,February,3442623.0
+2001,Japan,March,3807985.0
+2001,Japan,April,2825404.0
+2001,Japan,May,2783229.0
+2001,Japan,June,3143546.0
+2001,Japan,July,2388567.0
+2001,Japan,August,2183770.0
+2001,Japan,September,2662147.0
+2001,Japan,October,2199451.0
+2001,Japan,November,2111129.0
+2001,Japan,December,2067676.0
+2001,Asia Pacific,January,2715752.0
+2001,Asia Pacific,February,3280120.0
+2001,Asia Pacific,March,4278414.0
+2001,Asia Pacific,April,3061114.0
+2001,Asia Pacific,May,2855898.0
+2001,Asia Pacific,June,3743768.0
+2001,Asia Pacific,July,2711531.0
+2001,Asia Pacific,August,3031622.0
+2001,Asia Pacific,September,3986521.0
+2001,Asia Pacific,October,3103773.0
+2001,Asia Pacific,November,3288306.0
+2001,Asia Pacific,December,3763262.0
+2001,Worldwide,January,12965433.0
+2001,Worldwide,February,13499927.0
+2001,Worldwide,March,16771797.0
+2001,Worldwide,April,10941047.0
+2001,Worldwide,May,10411223.0
+2001,Worldwide,June,13271661.0
+2001,Worldwide,July,8770753.0
+2001,Worldwide,August,9292675.0
+2001,Worldwide,September,12500106.0
+2001,Worldwide,October,9524516.0
+2001,Worldwide,November,9787580.0
+2001,Worldwide,December,11225892.0
+2002,Americas,January,2204457.0
+2002,Americas,February,2419266.0
+2002,Americas,March,3209539.0
+2002,Americas,April,2217146.0
+2002,Americas,May,2519930.0
+2002,Americas,June,3017547.0
+2002,Americas,July,2255203.0
+2002,Americas,August,2467481.0
+2002,Americas,September,3176114.0
+2002,Americas,October,2295235.0
+2002,Americas,November,2608932.0
+2002,Americas,December,2884627.0
+2002,Europe,January,1806390.0
+2002,Europe,February,2030798.0
+2002,Europe,March,2932907.0
+2002,Europe,April,1882454.0
+2002,Europe,May,1899398.0
+2002,Europe,June,2657578.0
+2002,Europe,July,1906951.0
+2002,Europe,August,2077459.0
+2002,Europe,September,2964911.0
+2002,Europe,October,2335639.0
+2002,Europe,November,2525318.0
+2002,Europe,December,2768676.0
+2002,Japan,January,1883626.0
+2002,Japan,February,2057970.0
+2002,Japan,March,2385984.0
+2002,Japan,April,2159778.0
+2002,Japan,May,2434705.0
+2002,Japan,June,2762239.0
+2002,Japan,July,2784579.0
+2002,Japan,August,2716235.0
+2002,Japan,September,2984052.0
+2002,Japan,October,2854822.0
+2002,Japan,November,2703274.0
+2002,Japan,December,2766384.0
+2002,Asia Pacific,January,3146515.0
+2002,Asia Pacific,February,3309197.0
+2002,Asia Pacific,March,4812701.0
+2002,Asia Pacific,April,3787661.0
+2002,Asia Pacific,May,3883881.0
+2002,Asia Pacific,June,4838755.0
+2002,Asia Pacific,July,4065451.0
+2002,Asia Pacific,August,4228547.0
+2002,Asia Pacific,September,5241478.0
+2002,Asia Pacific,October,4195297.0
+2002,Asia Pacific,November,4598607.0
+2002,Asia Pacific,December,5047626.0
+2002,Worldwide,January,9040988.0
+2002,Worldwide,February,9817231.0
+2002,Worldwide,March,13341131.0
+2002,Worldwide,April,10047039.0
+2002,Worldwide,May,10737914.0
+2002,Worldwide,June,13276119.0
+2002,Worldwide,July,11012184.0
+2002,Worldwide,August,11489722.0
+2002,Worldwide,September,14366555.0
+2002,Worldwide,October,11680993.0
+2002,Worldwide,November,12436131.0
+2002,Worldwide,December,13467313.0
+2003,Americas,January,2180055.0
+2003,Americas,February,2257864.0
+2003,Americas,March,2938663.0
+2003,Americas,April,2142606.0
+2003,Americas,May,2501006.0
+2003,Americas,June,2959157.0
+2003,Americas,July,2203971.0
+2003,Americas,August,2667699.0
+2003,Americas,September,3382249.0
+2003,Americas,October,2760664.0
+2003,Americas,November,3022401.0
+2003,Americas,December,3314347.0
+2003,Europe,January,2119735.0
+2003,Europe,February,2468121.0
+2003,Europe,March,2996398.0
+2003,Europe,April,2164981.0
+2003,Europe,May,2237604.0
+2003,Europe,June,2869079.0
+2003,Europe,July,2327962.0
+2003,Europe,August,2434715.0
+2003,Europe,September,3375876.0
+2003,Europe,October,3074324.0
+2003,Europe,November,2993422.0
+2003,Europe,December,3247809.0
+2003,Japan,January,2709136.0
+2003,Japan,February,2684795.0
+2003,Japan,March,3244796.0
+2003,Japan,April,2699072.0
+2003,Japan,May,2999836.0
+2003,Japan,June,3374873.0
+2003,Japan,July,3123182.0
+2003,Japan,August,3138268.0
+2003,Japan,September,3822295.0
+2003,Japan,October,3714630.0
+2003,Japan,November,3621463.0
+2003,Japan,December,3809850.0
+2003,Asia Pacific,January,3931682.0
+2003,Asia Pacific,February,3928697.0
+2003,Asia Pacific,March,5436984.0
+2003,Asia Pacific,April,4236839.0
+2003,Asia Pacific,May,4351842.0
+2003,Asia Pacific,June,5554289.0
+2003,Asia Pacific,July,4657393.0
+2003,Asia Pacific,August,5381795.0
+2003,Asia Pacific,September,6822043.0
+2003,Asia Pacific,October,5710950.0
+2003,Asia Pacific,November,6050194.0
+2003,Asia Pacific,December,6779910.0
+2003,Worldwide,January,10940608.0
+2003,Worldwide,February,11339477.0
+2003,Worldwide,March,14616841.0
+2003,Worldwide,April,11243498.0
+2003,Worldwide,May,12090288.0
+2003,Worldwide,June,14757398.0
+2003,Worldwide,July,12312508.0
+2003,Worldwide,August,13622477.0
+2003,Worldwide,September,17402463.0
+2003,Worldwide,October,15260568.0
+2003,Worldwide,November,15687480.0
+2003,Worldwide,December,17151916.0
+2004,Americas,January,2467532.0
+2004,Americas,February,3012035.0
+2004,Americas,March,3748837.0
+2004,Americas,April,2813374.0
+2004,Americas,May,3030899.0
+2004,Americas,June,4019400.0
+2004,Americas,July,2834985.0
+2004,Americas,August,3398409.0
+2004,Americas,September,4028203.0
+2004,Americas,October,3093517.0
+2004,Americas,November,3228716.0
+2004,Americas,December,3388643.0
+2004,Europe,January,2583657.0
+2004,Europe,February,3053706.0
+2004,Europe,March,3795667.0
+2004,Europe,April,2822133.0
+2004,Europe,May,2941374.0
+2004,Europe,June,3605878.0
+2004,Europe,July,2942475.0
+2004,Europe,August,3105213.0
+2004,Europe,September,3997679.0
+2004,Europe,October,3268991.0
+2004,Europe,November,3541750.0
+2004,Europe,December,3765607.0
+2004,Japan,January,3413020.0
+2004,Japan,February,3443989.0
+2004,Japan,March,3962665.0
+2004,Japan,April,3603145.0
+2004,Japan,May,3599954.0
+2004,Japan,June,4301863.0
+2004,Japan,July,3844112.0
+2004,Japan,August,3781467.0
+2004,Japan,September,4234865.0
+2004,Japan,October,3694039.0
+2004,Japan,November,3902994.0
+2004,Japan,December,3974597.0
+2004,Asia Pacific,January,5361597.0
+2004,Asia Pacific,February,6287404.0
+2004,Asia Pacific,March,7730699.0
+2004,Asia Pacific,April,6689747.0
+2004,Asia Pacific,May,7275021.0
+2004,Asia Pacific,June,8806293.0
+2004,Asia Pacific,July,6856932.0
+2004,Asia Pacific,August,7349988.0
+2004,Asia Pacific,September,9179552.0
+2004,Asia Pacific,October,7212937.0
+2004,Asia Pacific,November,7721612.0
+2004,Asia Pacific,December,8309664.0
+2004,Worldwide,January,13825806.0
+2004,Worldwide,February,15797134.0
+2004,Worldwide,March,19237868.0
+2004,Worldwide,April,15928399.0
+2004,Worldwide,May,16847248.0
+2004,Worldwide,June,20733434.0
+2004,Worldwide,July,16478504.0
+2004,Worldwide,August,17635077.0
+2004,Worldwide,September,21440299.0
+2004,Worldwide,October,17269484.0
+2004,Worldwide,November,18395072.0
+2004,Worldwide,December,19438511.0
+2005,Americas,January,2981900.0
+2005,Americas,February,3056434.0
+2005,Americas,March,3702744.0
+2005,Americas,April,2915431.0
+2005,Americas,May,3007818.0
+2005,Americas,June,3599324.0
+2005,Americas,July,2795789.0
+2005,Americas,August,3330615.0
+2005,Americas,September,4216786.0
+2005,Americas,October,3237951.0
+2005,Americas,November,3724965.0
+2005,Americas,December,4165834.0
+2005,Europe,January,3113776.0
+2005,Europe,February,3258018.0
+2005,Europe,March,3752362.0
+2005,Europe,April,2950200.0
+2005,Europe,May,2877625.0
+2005,Europe,June,3504530.0
+2005,Europe,July,2758605.0
+2005,Europe,August,2970676.0
+2005,Europe,September,4139002.0
+2005,Europe,October,3152284.0
+2005,Europe,November,3302125.0
+2005,Europe,December,3495940.0
+2005,Japan,January,3720700.0
+2005,Japan,February,3675568.0
+2005,Japan,March,4093966.0
+2005,Japan,April,3318904.0
+2005,Japan,May,3439285.0
+2005,Japan,June,3871861.0
+2005,Japan,July,3392737.0
+2005,Japan,August,3534294.0
+2005,Japan,September,4175231.0
+2005,Japan,October,3482735.0
+2005,Japan,November,3639867.0
+2005,Japan,December,3736913.0
+2005,Asia Pacific,January,7489572.0
+2005,Asia Pacific,February,7232398.0
+2005,Asia Pacific,March,9000741.0
+2005,Asia Pacific,April,7437040.0
+2005,Asia Pacific,May,7657779.0
+2005,Asia Pacific,June,9295174.0
+2005,Asia Pacific,July,7859520.0
+2005,Asia Pacific,August,8850313.0
+2005,Asia Pacific,September,10648215.0
+2005,Asia Pacific,October,8435154.0
+2005,Asia Pacific,November,9065932.0
+2005,Asia Pacific,December,10419504.0
+2005,Worldwide,January,17305948.0
+2005,Worldwide,February,17222418.0
+2005,Worldwide,March,20549813.0
+2005,Worldwide,April,16621575.0
+2005,Worldwide,May,16982507.0
+2005,Worldwide,June,20270889.0
+2005,Worldwide,July,16806651.0
+2005,Worldwide,August,18685898.0
+2005,Worldwide,September,23179234.0
+2005,Worldwide,October,18308124.0
+2005,Worldwide,November,19732889.0
+2005,Worldwide,December,21818191.0
+2006,Americas,January,3238899.0
+2006,Americas,February,3749786.0
+2006,Americas,March,4212716.0
+2006,Americas,April,2827869.0
+2006,Americas,May,3533626.0
+2006,Americas,June,4266343.0
+2006,Americas,July,3295264.0
+2006,Americas,August,3913696.0
+2006,Americas,September,4469062.0
+2006,Americas,October,3589107.0
+2006,Americas,November,3850752.0
+2006,Americas,December,3964785.0
+2006,Europe,January,2760051.0
+2006,Europe,February,3072567.0
+2006,Europe,March,3877369.0
+2006,Europe,April,2744920.0
+2006,Europe,May,3028939.0
+2006,Europe,June,3693588.0
+2006,Europe,July,2794976.0
+2006,Europe,August,3135332.0
+2006,Europe,September,4305545.0
+2006,Europe,October,3188311.0
+2006,Europe,November,3557426.0
+2006,Europe,December,3745301.0
+2006,Japan,January,3589231.0
+2006,Japan,February,3611379.0
+2006,Japan,March,4173269.0
+2006,Japan,April,3469510.0
+2006,Japan,May,3710371.0
+2006,Japan,June,4160418.0
+2006,Japan,July,3710054.0
+2006,Japan,August,3887125.0
+2006,Japan,September,4475370.0
+2006,Japan,October,3934976.0
+2006,Japan,November,3886403.0
+2006,Japan,December,3810115.0
+2006,Asia Pacific,January,7829065.0
+2006,Asia Pacific,February,8157558.0
+2006,Asia Pacific,March,10832046.0
+2006,Asia Pacific,April,8068809.0
+2006,Asia Pacific,May,8953939.0
+2006,Asia Pacific,June,10884068.0
+2006,Asia Pacific,July,8415451.0
+2006,Asia Pacific,August,9384896.0
+2006,Asia Pacific,September,12248218.0
+2006,Asia Pacific,October,9376916.0
+2006,Asia Pacific,November,10754375.0
+2006,Asia Pacific,December,11576401.0
+2006,Worldwide,January,17417246.0
+2006,Worldwide,February,18591290.0
+2006,Worldwide,March,23095400.0
+2006,Worldwide,April,17111108.0
+2006,Worldwide,May,19226875.0
+2006,Worldwide,June,23004417.0
+2006,Worldwide,July,18215745.0
+2006,Worldwide,August,20321049.0
+2006,Worldwide,September,25498195.0
+2006,Worldwide,October,20089310.0
+2006,Worldwide,November,22048956.0
+2006,Worldwide,December,23096602.0
+2007,Americas,January,3306741.0
+2007,Americas,February,2968395.0
+2007,Americas,March,3750347.0
+2007,Americas,April,3064006.0
+2007,Americas,May,3216766.0
+2007,Americas,June,3648920.0
+2007,Americas,July,3572380.0
+2007,Americas,August,3528971.0
+2007,Americas,September,4315234.0
+2007,Americas,October,3731363.0
+2007,Americas,November,3429061.0
+2007,Americas,December,3804099.0
+2007,Europe,January,3154813.0
+2007,Europe,February,3121053.0
+2007,Europe,March,3887879.0
+2007,Europe,April,2872733.0
+2007,Europe,May,3034951.0
+2007,Europe,June,3710211.0
+2007,Europe,July,3106570.0
+2007,Europe,August,3313138.0
+2007,Europe,September,4169343.0
+2007,Europe,October,3347538.0
+2007,Europe,November,3526770.0
+2007,Europe,December,3726531.0
+2007,Japan,January,3690640.0
+2007,Japan,February,3551242.0
+2007,Japan,March,4380541.0
+2007,Japan,April,3634430.0
+2007,Japan,May,3732739.0
+2007,Japan,June,4157847.0
+2007,Japan,July,3997890.0
+2007,Japan,August,4147168.0
+2007,Japan,September,4630400.0
+2007,Japan,October,4316276.0
+2007,Japan,November,4210933.0
+2007,Japan,December,4395197.0
+2007,Asia Pacific,January,9139154.0
+2007,Asia Pacific,February,8391316.0
+2007,Asia Pacific,March,11743325.0
+2007,Asia Pacific,April,8805648.0
+2007,Asia Pacific,May,8810187.0
+2007,Asia Pacific,June,11216491.0
+2007,Asia Pacific,July,9604650.0
+2007,Asia Pacific,August,10593623.0
+2007,Asia Pacific,September,12832026.0
+2007,Asia Pacific,October,10150963.0
+2007,Asia Pacific,November,10704182.0
+2007,Asia Pacific,December,11500657.0
+2007,Worldwide,January,19291348.0
+2007,Worldwide,February,18032006.0
+2007,Worldwide,March,23762092.0
+2007,Worldwide,April,18376817.0
+2007,Worldwide,May,18794643.0
+2007,Worldwide,June,22733469.0
+2007,Worldwide,July,20281490.0
+2007,Worldwide,August,21582900.0
+2007,Worldwide,September,25947003.0
+2007,Worldwide,October,21546140.0
+2007,Worldwide,November,21870946.0
+2007,Worldwide,December,23426484.0
+2008,Americas,January,3100604.0
+2008,Americas,February,2877532.0
+2008,Americas,March,3984607.0
+2008,Americas,April,3076190.0
+2008,Americas,May,3070677.0
+2008,Americas,June,4060136.0
+2008,Americas,July,2910958.0
+2008,Americas,August,2990409.0
+2008,Americas,September,3719854.0
+2008,Americas,October,2908989.0
+2008,Americas,November,2609885.0
+2008,Americas,December,2570700.0
+2008,Europe,January,3063307.0
+2008,Europe,February,3132229.0
+2008,Europe,March,3863534.0
+2008,Europe,April,3012964.0
+2008,Europe,May,3105750.0
+2008,Europe,June,3987974.0
+2008,Europe,July,3086103.0
+2008,Europe,August,3266770.0
+2008,Europe,September,4080230.0
+2008,Europe,October,2912918.0
+2008,Europe,November,2516643.0
+2008,Europe,December,2221065.0
+2008,Japan,January,3690441.0
+2008,Japan,February,3822103.0
+2008,Japan,March,5152161.0
+2008,Japan,April,3760884.0
+2008,Japan,May,3804104.0
+2008,Japan,June,4281998.0
+2008,Japan,July,4230796.0
+2008,Japan,August,4145240.0
+2008,Japan,September,4397158.0
+2008,Japan,October,4144357.0
+2008,Japan,November,3615144.0
+2008,Japan,December,3453664.0
+2008,Asia Pacific,January,9256369.0
+2008,Asia Pacific,February,8667192.0
+2008,Asia Pacific,March,12196335.0
+2008,Asia Pacific,April,9081676.0
+2008,Asia Pacific,May,10269700.0
+2008,Asia Pacific,June,13189908.0
+2008,Asia Pacific,July,10557193.0
+2008,Asia Pacific,August,11425022.0
+2008,Asia Pacific,September,14066556.0
+2008,Asia Pacific,October,9413586.0
+2008,Asia Pacific,November,8217419.0
+2008,Asia Pacific,December,7633778.0
+2008,Worldwide,January,19110721.0
+2008,Worldwide,February,18499056.0
+2008,Worldwide,March,25196637.0
+2008,Worldwide,April,18931714.0
+2008,Worldwide,May,20250231.0
+2008,Worldwide,June,25520016.0
+2008,Worldwide,July,20785050.0
+2008,Worldwide,August,21827441.0
+2008,Worldwide,September,26263798.0
+2008,Worldwide,October,19379850.0
+2008,Worldwide,November,16959091.0
+2008,Worldwide,December,15879207.0
+2009,Americas,January,2427384.0
+2009,Americas,February,2331771.0
+2009,Americas,March,2966882.0
+2009,Americas,April,2646156.0
+2009,Americas,May,2757266.0
+2009,Americas,June,3431831.0
+2009,Americas,July,3137376.0
+2009,Americas,August,3301314.0
+2009,Americas,September,4019742.0
+2009,Americas,October,3714890.0
+2009,Americas,November,3924271.0
+2009,Americas,December,3860935.0
+2009,Europe,January,2058728.0
+2009,Europe,February,2043423.0
+2009,Europe,March,2415081.0
+2009,Europe,April,2048610.0
+2009,Europe,May,2115748.0
+2009,Europe,June,2494004.0
+2009,Europe,July,2382320.0
+2009,Europe,August,2364238.0
+2009,Europe,September,3111201.0
+2009,Europe,October,2950902.0
+2009,Europe,November,2997667.0
+2009,Europe,December,2883181.0
+2009,Japan,January,2610058.0
+2009,Japan,February,2269423.0
+2009,Japan,March,2659884.0
+2009,Japan,April,2766939.0
+2009,Japan,May,2863005.0
+2009,Japan,June,3382533.0
+2009,Japan,July,3470460.0
+2009,Japan,August,3267101.0
+2009,Japan,September,4171677.0
+2009,Japan,October,3807165.0
+2009,Japan,November,3551632.0
+2009,Japan,December,3480139.0
+2009,Asia Pacific,January,5918868.0
+2009,Asia Pacific,February,6797439.0
+2009,Asia Pacific,March,9198839.0
+2009,Asia Pacific,April,8891834.0
+2009,Asia Pacific,May,8773281.0
+2009,Asia Pacific,June,10277822.0
+2009,Asia Pacific,July,10184808.0
+2009,Asia Pacific,August,10449917.0
+2009,Asia Pacific,September,13021470.0
+2009,Asia Pacific,October,11707929.0
+2009,Asia Pacific,November,11153337.0
+2009,Asia Pacific,December,13252885.0
+2009,Worldwide,January,13015038.0
+2009,Worldwide,February,13442056.0
+2009,Worldwide,March,17240686.0
+2009,Worldwide,April,16353539.0
+2009,Worldwide,May,16509300.0
+2009,Worldwide,June,19586190.0
+2009,Worldwide,July,19174964.0
+2009,Worldwide,August,19382570.0
+2009,Worldwide,September,24324090.0
+2009,Worldwide,October,22180886.0
+2009,Worldwide,November,21626907.0
+2009,Worldwide,December,23477140.0
+2010,Americas,January,3551756.0
+2010,Americas,February,3677112.0
+2010,Americas,March,4671398.0
+2010,Americas,April,3983738.0
+2010,Americas,May,4482195.0
+2010,Americas,June,5224489.0
+2010,Americas,July,4482542.0
+2010,Americas,August,4749066.0
+2010,Americas,September,5135133.0
+2010,Americas,October,4485400.0
+2010,Americas,November,4494515.0
+2010,Americas,December,4738005.0
+2010,Europe,January,2903466.0
+2010,Europe,February,2827244.0
+2010,Europe,March,3468082.0
+2010,Europe,April,2921673.0
+2010,Europe,May,2983503.0
+2010,Europe,June,3346649.0
+2010,Europe,July,3000910.0
+2010,Europe,August,3009367.0
+2010,Europe,September,3688415.0
+2010,Europe,October,3322437.0
+2010,Europe,November,3245440.0
+2010,Europe,December,3336607.0
+2010,Japan,January,3445584.0
+2010,Japan,February,3466880.0
+2010,Japan,March,3938402.0
+2010,Japan,April,3622303.0
+2010,Japan,May,3567561.0
+2010,Japan,June,4056266.0
+2010,Japan,July,3974414.0
+2010,Japan,August,4054234.0
+2010,Japan,September,4534197.0
+2010,Japan,October,4010288.0
+2010,Japan,November,3932415.0
+2010,Japan,December,3958218.0
+2010,Asia Pacific,January,12171535.0
+2010,Asia Pacific,February,11035895.0
+2010,Asia Pacific,March,14640439.0
+2010,Asia Pacific,April,12955575.0
+2010,Asia Pacific,May,12869510.0
+2010,Asia Pacific,June,14414553.0
+2010,Asia Pacific,July,12971586.0
+2010,Asia Pacific,August,13508303.0
+2010,Asia Pacific,September,15519120.0
+2010,Asia Pacific,October,12585120.0
+2010,Asia Pacific,November,12829391.0
+2010,Asia Pacific,December,14524184.0
+2010,Worldwide,January,22072341.0
+2010,Worldwide,February,21007131.0
+2010,Worldwide,March,26718321.0
+2010,Worldwide,April,23483289.0
+2010,Worldwide,May,23902769.0
+2010,Worldwide,June,27041957.0
+2010,Worldwide,July,24429452.0
+2010,Worldwide,August,25320970.0
+2010,Worldwide,September,28876865.0
+2010,Worldwide,October,24403245.0
+2010,Worldwide,November,24501761.0
+2010,Worldwide,December,26557014.0
+2011,Americas,January,4836916.0
+2011,Americas,February,4262842.0
+2011,Americas,March,5083462.0
+2011,Americas,April,4398007.0
+2011,Americas,May,4403388.0
+2011,Americas,June,5300690.0
+2011,Americas,July,4201157.0
+2011,Americas,August,4235088.0
+2011,Americas,September,5391839.0
+2011,Americas,October,4377263.0
+2011,Americas,November,3986315.0
+2011,Americas,December,4720447.0
+2011,Europe,January,3312201.0
+2011,Europe,February,3089922.0
+2011,Europe,March,3624106.0
+2011,Europe,April,3173005.0
+2011,Europe,May,3070730.0
+2011,Europe,June,3385153.0
+2011,Europe,July,2938273.0
+2011,Europe,August,2881078.0
+2011,Europe,September,3580930.0
+2011,Europe,October,2783543.0
+2011,Europe,November,2714566.0
+2011,Europe,December,2837628.0
+2011,Japan,January,3502052.0
+2011,Japan,February,3336209.0
+2011,Japan,March,3987004.0
+2011,Japan,April,2924444.0
+2011,Japan,May,3107417.0
+2011,Japan,June,3880361.0
+2011,Japan,July,3414402.0
+2011,Japan,August,3639282.0
+2011,Japan,September,4337420.0
+2011,Japan,October,3670125.0
+2011,Japan,November,3446524.0
+2011,Japan,December,3657350.0
+2011,Asia Pacific,January,13521958.0
+2011,Asia Pacific,February,11612881.0
+2011,Asia Pacific,March,15765605.0
+2011,Asia Pacific,April,13094683.0
+2011,Asia Pacific,May,13092604.0
+2011,Asia Pacific,June,14828599.0
+2011,Asia Pacific,July,12961345.0
+2011,Asia Pacific,August,13647523.0
+2011,Asia Pacific,September,16201166.0
+2011,Asia Pacific,October,12670308.0
+2011,Asia Pacific,November,12497128.0
+2011,Asia Pacific,December,14136399.0
+2011,Worldwide,January,25173127.0
+2011,Worldwide,February,22301854.0
+2011,Worldwide,March,28460177.0
+2011,Worldwide,April,23590139.0
+2011,Worldwide,May,23674139.0
+2011,Worldwide,June,27394803.0
+2011,Worldwide,July,23515177.0
+2011,Worldwide,August,24402971.0
+2011,Worldwide,September,29511355.0
+2011,Worldwide,October,23501239.0
+2011,Worldwide,November,22644533.0
+2011,Worldwide,December,25351824.0
+2012,Americas,January,4251913.0
+2012,Americas,February,4253697.0
+2012,Americas,March,4852072.0
+2012,Americas,April,4565408.0
+2012,Americas,May,3995239.0
+2012,Americas,June,4355960.0
+2012,Americas,July,4042116.0
+2012,Americas,August,4125300.0
+2012,Americas,September,5082619.0
+2012,Americas,October,5117070.0
+2012,Americas,November,4856400.0
+2012,Americas,December,4861009.0
+2012,Europe,January,2759232.0
+2012,Europe,February,2572282.0
+2012,Europe,March,3145198.0
+2012,Europe,April,2736920.0
+2012,Europe,May,2631170.0
+2012,Europe,June,3083382.0
+2012,Europe,July,2742960.0
+2012,Europe,August,2474009.0
+2012,Europe,September,3142371.0
+2012,Europe,October,2760286.0
+2012,Europe,November,2508294.0
+2012,Europe,December,2606909.0
+2012,Japan,January,3209526.0
+2012,Japan,February,3269158.0
+2012,Japan,March,3779082.0
+2012,Japan,April,3081824.0
+2012,Japan,May,3228228.0
+2012,Japan,June,3984100.0
+2012,Japan,July,3602545.0
+2012,Japan,August,3332507.0
+2012,Japan,September,4000959.0
+2012,Japan,October,3261881.0
+2012,Japan,November,2971609.0
+2012,Japan,December,3334297.0
+2012,Asia Pacific,January,11261449.0
+2012,Asia Pacific,February,11848252.0
+2012,Asia Pacific,March,14631027.0
+2012,Asia Pacific,April,13446794.0
+2012,Asia Pacific,May,13098689.0
+2012,Asia Pacific,June,14885837.0
+2012,Asia Pacific,July,13221948.0
+2012,Asia Pacific,August,13107343.0
+2012,Asia Pacific,September,15555596.0
+2012,Asia Pacific,October,13751063.0
+2012,Asia Pacific,November,13525470.0
+2012,Asia Pacific,December,14651116.0
+2012,Worldwide,January,21482120.0
+2012,Worldwide,February,21943389.0
+2012,Worldwide,March,26407379.0
+2012,Worldwide,April,23830946.0
+2012,Worldwide,May,22953326.0
+2012,Worldwide,June,26309279.0
+2012,Worldwide,July,23609569.0
+2012,Worldwide,August,23039159.0
+2012,Worldwide,September,27781545.0
+2012,Worldwide,October,24890300.0
+2012,Worldwide,November,23861773.0
+2012,Worldwide,December,25453331.0
+2013,Americas,January,4588684.0
+2013,Americas,February,3964858.0
+2013,Americas,March,4605110.0
+2013,Americas,April,4504559.0
+2013,Americas,May,4695936.0
+2013,Americas,June,5088799.0
+2013,Americas,July,5276950.0
+2013,Americas,August,5203487.0
+2013,Americas,September,6168151.0
+2013,Americas,October,5769260.0
+2013,Americas,November,5686117.0
+2013,Americas,December,5943590.0
+2013,Europe,January,2855280.0
+2013,Europe,February,2612810.0
+2013,Europe,March,3069280.0
+2013,Europe,April,2806498.0
+2013,Europe,May,2638952.0
+2013,Europe,June,3075646.0
+2013,Europe,July,2833259.0
+2013,Europe,August,2829476.0
+2013,Europe,September,3287816.0
+2013,Europe,October,3029350.0
+2013,Europe,November,2915040.0
+2013,Europe,December,2929997.0
+2013,Japan,January,2691754.0
+2013,Japan,February,2518569.0
+2013,Japan,March,3202688.0
+2013,Japan,April,2446457.0
+2013,Japan,May,2585201.0
+2013,Japan,June,3127348.0
+2013,Japan,July,3089942.0
+2013,Japan,August,2921348.0
+2013,Japan,September,3432340.0
+2013,Japan,October,2965895.0
+2013,Japan,November,2821297.0
+2013,Japan,December,2992425.0
+2013,Asia Pacific,January,12992692.0
+2013,Asia Pacific,February,12007921.0
+2013,Asia Pacific,March,15339677.0
+2013,Asia Pacific,April,13789775.0
+2013,Asia Pacific,May,14391376.0
+2013,Asia Pacific,June,15494377.0
+2013,Asia Pacific,July,14299285.0
+2013,Asia Pacific,August,14710256.0
+2013,Asia Pacific,September,16499559.0
+2013,Asia Pacific,October,14443779.0
+2013,Asia Pacific,November,14548986.0
+2013,Asia Pacific,December,15892012.0
+2013,Worldwide,January,23128410.0
+2013,Worldwide,February,21104158.0
+2013,Worldwide,March,26216755.0
+2013,Worldwide,April,23547289.0
+2013,Worldwide,May,24311465.0
+2013,Worldwide,June,26786170.0
+2013,Worldwide,July,25499436.0
+2013,Worldwide,August,25664567.0
+2013,Worldwide,September,29387866.0
+2013,Worldwide,October,26208284.0
+2013,Worldwide,November,25971440.0
+2013,Worldwide,December,27758024.0
+2014,Americas,January,5147459.0
+2014,Americas,February,4863549.0
+2014,Americas,March,5229275.0
+2014,Americas,April,4903629.0
+2014,Americas,May,5012949.0
+2014,Americas,June,5803857.0
+2014,Americas,July,5597133.0
+2014,Americas,August,5926494.0
+2014,Americas,September,6650011.0
+2014,Americas,October,6654691.0
+2014,Americas,November,6282068.0
+2014,Americas,December,7252719.0
+2014,Europe,January,3006428.0
+2014,Europe,February,2938778.0
+2014,Europe,March,3289521.0
+2014,Europe,April,2954300.0
+2014,Europe,May,3106549.0
+2014,Europe,June,3517028.0
+2014,Europe,July,3104611.0
+2014,Europe,August,3029255.0
+2014,Europe,September,3495327.0
+2014,Europe,October,3094637.0
+2014,Europe,November,2983455.0
+2014,Europe,December,2939012.0
+2014,Japan,January,2716687.0
+2014,Japan,February,2712476.0
+2014,Japan,March,3010751.0
+2014,Japan,April,2805809.0
+2014,Japan,May,2815175.0
+2014,Japan,June,3284760.0
+2014,Japan,July,3017027.0
+2014,Japan,August,2909083.0
+2014,Japan,September,3166328.0
+2014,Japan,October,2962455.0
+2014,Japan,November,2664856.0
+2014,Japan,December,2764945.0
+2014,Asia Pacific,January,14161499.0
+2014,Asia Pacific,February,14827733.0
+2014,Asia Pacific,March,16540479.0
+2014,Asia Pacific,April,14931593.0
+2014,Asia Pacific,May,15889112.0
+2014,Asia Pacific,June,17297567.0
+2014,Asia Pacific,July,15942850.0
+2014,Asia Pacific,August,16348810.0
+2014,Asia Pacific,September,18512281.0
+2014,Asia Pacific,October,16302073.0
+2014,Asia Pacific,November,16553730.0
+2014,Asia Pacific,December,16922103.0
+2014,Worldwide,January,25032073.0
+2014,Worldwide,February,25342536.0
+2014,Worldwide,March,28070026.0
+2014,Worldwide,April,25595331.0
+2014,Worldwide,May,26823785.0
+2014,Worldwide,June,29903212.0
+2014,Worldwide,July,27661621.0
+2014,Worldwide,August,28213642.0
+2014,Worldwide,September,31823947.0
+2014,Worldwide,October,29013856.0
+2014,Worldwide,November,28484109.0
+2014,Worldwide,December,29878779.0
+2015,Americas,January,5991437.0
+2015,Americas,February,5446663.0
+2015,Americas,March,5977805.0
+2015,Americas,April,5413064.0
+2015,Americas,May,5475446.0
+2015,Americas,June,5710841.0
+2015,Americas,July,5357005.0
+2015,Americas,August,5734288.0
+2015,Americas,September,6378976.0
+2015,Americas,October,6032594.0
+2015,Americas,November,5785315.0
+2015,Americas,December,5434501.0
+2015,Europe,January,2917262.0
+2015,Europe,February,2776189.0
+2015,Europe,March,3173811.0
+2015,Europe,April,2718242.0
+2015,Europe,May,2728661.0
+2015,Europe,June,3030053.0
+2015,Europe,July,2745077.0
+2015,Europe,August,2647163.0
+2015,Europe,September,3219463.0
+2015,Europe,October,2851929.0
+2015,Europe,November,2732998.0
+2015,Europe,December,2716691.0
+2015,Japan,January,2429145.0
+2015,Japan,February,2469549.0
+2015,Japan,March,2738802.0
+2015,Japan,April,2412424.0
+2015,Japan,May,2465476.0
+2015,Japan,June,2817736.0
+2015,Japan,July,2619438.0
+2015,Japan,August,2577574.0
+2015,Japan,September,2859727.0
+2015,Japan,October,2650865.0
+2015,Japan,November,2528916.0
+2015,Japan,December,2532262.0
+2015,Asia Pacific,January,15935413.0
+2015,Asia Pacific,February,15381536.0
+2015,Asia Pacific,March,17870302.0
+2015,Asia Pacific,April,16296025.0
+2015,Asia Pacific,May,17058439.0
+2015,Asia Pacific,June,17850651.0
+2015,Asia Pacific,July,15748025.0
+2015,Asia Pacific,August,16812683.0
+2015,Asia Pacific,September,18532118.0
+2015,Asia Pacific,October,16622238.0
+2015,Asia Pacific,November,16445700.0
+2015,Asia Pacific,December,16517343.0
+2015,Worldwide,January,27273257.0
+2015,Worldwide,February,26073937.0
+2015,Worldwide,March,29760720.0
+2015,Worldwide,April,26839755.0
+2015,Worldwide,May,27728022.0
+2015,Worldwide,June,29409281.0
+2015,Worldwide,July,26469545.0
+2015,Worldwide,August,27771708.0
+2015,Worldwide,September,30990284.0
+2015,Worldwide,October,28157626.0
+2015,Worldwide,November,27492929.0
+2015,Worldwide,December,27200797.0
+2016,Americas,January,5015519.0
+2016,Americas,February,4645417.0
+2016,Americas,March,5013270.0
+2016,Americas,April,4688167.0
+2016,Americas,May,4672037.0
+2016,Americas,June,5458764.0
+2016,Americas,July,5181088.0
+2016,Americas,August,5655510.0
+2016,Americas,September,6217760.0
+2016,Americas,October,6305529.0
+2016,Americas,November,6232739.0
+2016,Americas,December,6451697.0
+2016,Europe,January,2667477.0
+2016,Europe,February,2601037.0
+2016,Europe,March,2727631.0
+2016,Europe,April,2601618.0
+2016,Europe,May,2550151.0
+2016,Europe,June,2875235.0
+2016,Europe,July,2657225.0
+2016,Europe,August,2603686.0
+2016,Europe,September,3011607.0
+2016,Europe,October,2833175.0
+2016,Europe,November,2807319.0
+2016,Europe,December,2770567.0
+2016,Japan,January,2406899.0
+2016,Japan,February,2479111.0
+2016,Japan,March,2885339.0
+2016,Japan,April,2420213.0
+2016,Japan,May,2353666.0
+2016,Japan,June,2800903.0
+2016,Japan,July,2659002.0
+2016,Japan,August,2741833.0
+2016,Japan,September,3021155.0
+2016,Japan,October,2898299.0
+2016,Japan,November,2782121.0
+2016,Japan,December,2843411.0
+2016,Asia Pacific,January,15890315.0
+2016,Asia Pacific,February,15344756.0
+2016,Asia Pacific,March,16785738.0
+2016,Asia Pacific,April,15468881.0
+2016,Asia Pacific,May,15969043.0
+2016,Asia Pacific,June,17292101.0
+2016,Asia Pacific,July,16916336.0
+2016,Asia Pacific,August,17805793.0
+2016,Asia Pacific,September,19822931.0
+2016,Asia Pacific,October,18366031.0
+2016,Asia Pacific,November,18761053.0
+2016,Asia Pacific,December,19971700.0
+2016,Worldwide,January,25980210.0
+2016,Worldwide,February,25070321.0
+2016,Worldwide,March,27411978.0
+2016,Worldwide,April,25178879.0
+2016,Worldwide,May,25544897.0
+2016,Worldwide,June,28427003.0
+2016,Worldwide,July,27413651.0
+2016,Worldwide,August,28806822.0
+2016,Worldwide,September,32073453.0
+2016,Worldwide,October,30403034.0
+2016,Worldwide,November,30583232.0
+2016,Worldwide,December,32037375.0
+2017,Americas,January,5730781.0
+2017,Americas,February,5807315.0
+2017,Americas,March,6350709.0
+2017,Americas,April,6087358.0
+2017,Americas,May,6360910.0
+2017,Americas,June,7313536.0
+2017,Americas,July,7153867.0
+2017,Americas,August,8184862.0
+2017,Americas,September,8644358.0
+2017,Americas,October,8792787.0
+2017,Americas,November,8860372.0
+2017,Americas,December,9206668.0
+2017,Europe,January,2933730.0
+2017,Europe,February,2746272.0
+2017,Europe,March,3187802.0
+2017,Europe,April,3024800.0
+2017,Europe,May,3104396.0
+2017,Europe,June,3361664.0
+2017,Europe,July,3139210.0
+2017,Europe,August,3166177.0
+2017,Europe,September,3534750.0
+2017,Europe,October,3393270.0
+2017,Europe,November,3346019.0
+2017,Europe,December,3373381.0
+2017,Japan,January,2729733.0
+2017,Japan,February,2679264.0
+2017,Japan,March,3113700.0
+2017,Japan,April,2836939.0
+2017,Japan,May,2897350.0
+2017,Japan,June,3199061.0
+2017,Japan,July,3023297.0
+2017,Japan,August,3155019.0
+2017,Japan,September,3241928.0
+2017,Japan,October,3196618.0
+2017,Japan,November,3190511.0
+2017,Japan,December,3331901.0
+2017,Asia Pacific,January,17910613.0
+2017,Asia Pacific,February,18574419.0
+2017,Asia Pacific,March,20757115.0
+2017,Asia Pacific,April,18685422.0
+2017,Asia Pacific,May,19578155.0
+2017,Asia Pacific,June,21436898.0
+2017,Asia Pacific,July,20326779.0
+2017,Asia Pacific,August,21423174.0
+2017,Asia Pacific,September,22863300.0
+2017,Asia Pacific,October,21676833.0
+2017,Asia Pacific,November,22328251.0
+2017,Asia Pacific,December,23259670.0
+2017,Worldwide,January,29304857.0
+2017,Worldwide,February,29807270.0
+2017,Worldwide,March,33409326.0
+2017,Worldwide,April,30634519.0
+2017,Worldwide,May,31940811.0
+2017,Worldwide,June,35311159.0
+2017,Worldwide,July,33643153.0
+2017,Worldwide,August,35929232.0
+2017,Worldwide,September,38284336.0
+2017,Worldwide,October,37059508.0
+2017,Worldwide,November,37725153.0
+2017,Worldwide,December,39171620.0
+2018,Americas,January,7816739.0
+2018,Americas,February,7735375.0
+2018,Americas,March,8717938.0
+2018,Americas,April,8019027.0
+2018,Americas,May,7996382.0
+2018,Americas,June,9017943.0
+2018,Americas,July,8168704.0
+2018,Americas,August,9296113.0
+2018,Americas,September,11039817.0
+2018,Americas,October,9207248.0
+2018,Americas,November,8501628.0
+2018,Americas,December,7480283.0
+2018,Europe,January,3507239.0
+2018,Europe,February,3443247.0
+2018,Europe,March,3856051.0
+2018,Europe,April,3649273.0
+2018,Europe,May,3583167.0
+2018,Europe,June,3765497.0
+2018,Europe,July,3337214.0
+2018,Europe,August,3507201.0
+2018,Europe,September,3909256.0
+2018,Europe,October,3489972.0
+2018,Europe,November,3534085.0
+2018,Europe,December,3374830.0
+2018,Japan,January,3096407.0
+2018,Japan,February,3109211.0
+2018,Japan,March,3428833.0
+2018,Japan,April,3330515.0
+2018,Japan,May,3288777.0
+2018,Japan,June,3563435.0
+2018,Japan,July,3322525.0
+2018,Japan,August,3335171.0
+2018,Japan,September,3540741.0
+2018,Japan,October,3343938.0
+2018,Japan,November,3285539.0
+2018,Japan,December,3316194.0
+2018,Asia Pacific,January,21495743.0
+2018,Asia Pacific,February,20927966.0
+2018,Asia Pacific,March,24172691.0
+2018,Asia Pacific,April,22439029.0
+2018,Asia Pacific,May,23688146.0
+2018,Asia Pacific,June,25597494.0
+2018,Asia Pacific,July,23176808.0
+2018,Asia Pacific,August,25889302.0
+2018,Asia Pacific,September,26350858.0
+2018,Asia Pacific,October,23418727.0
+2018,Asia Pacific,November,23703721.0
+2018,Asia Pacific,December,22002285.0
+2018,Worldwide,January,35916128.0
+2018,Worldwide,February,35215799.0
+2018,Worldwide,March,40175513.0
+2018,Worldwide,April,37437844.0
+2018,Worldwide,May,38556472.0
+2018,Worldwide,June,41944369.0
+2018,Worldwide,July,38005251.0
+2018,Worldwide,August,42027787.0
+2018,Worldwide,September,44840672.0
+2018,Worldwide,October,39459885.0
+2018,Worldwide,November,39024973.0
+2018,Worldwide,December,36173592.0
+2019,Americas,January,5950687.0
+2019,Americas,February,5649028.0
+2019,Americas,March,6554652.0
+2019,Americas,April,5366282.0
+2019,Americas,May,5835030.0
+2019,Americas,June,6477186.0
+2019,Americas,July,5964352.0
+2019,Americas,August,6763966.0
+2019,Americas,September,7472681.0
+2019,Americas,October,7685707.0
+2019,Americas,November,7395197.0
+2019,Americas,December,7504703.0
+2019,Europe,January,3410052.0
+2019,Europe,February,3363382.0
+2019,Europe,March,3509253.0
+2019,Europe,April,3245857.0
+2019,Europe,May,3309625.0
+2019,Europe,June,3268970.0
+2019,Europe,July,3251646.0
+2019,Europe,August,3278395.0
+2019,Europe,September,3553845.0
+2019,Europe,October,3295414.0
+2019,Europe,November,3232841.0
+2019,Europe,December,3096793.0
+2019,Japan,January,2868808.0
+2019,Japan,February,2774356.0
+2019,Japan,March,2916222.0
+2019,Japan,April,2883838.0
+2019,Japan,May,2853359.0
+2019,Japan,June,3158452.0
+2019,Japan,July,2986946.0
+2019,Japan,August,3054097.0
+2019,Japan,September,3331937.0
+2019,Japan,October,3062630.0
+2019,Japan,November,2954333.0
+2019,Japan,December,3147863.0
+2019,Asia Pacific,January,19007603.0
+2019,Asia Pacific,February,19414999.0
+2019,Asia Pacific,March,22432963.0
+2019,Asia Pacific,April,19223142.0
+2019,Asia Pacific,May,20983632.0
+2019,Asia Pacific,June,21964542.0
+2019,Asia Pacific,July,20581471.0
+2019,Asia Pacific,August,22839839.0
+2019,Asia Pacific,September,24293197.0
+2019,Asia Pacific,October,21890193.0
+2019,Asia Pacific,November,22384365.0
+2019,Asia Pacific,December,22862645.0
+2019,Worldwide,January,31237150.0
+2019,Worldwide,February,31201765.0
+2019,Worldwide,March,35413090.0
+2019,Worldwide,April,30719119.0
+2019,Worldwide,May,32981646.0
+2019,Worldwide,June,34869150.0
+2019,Worldwide,July,32784415.0
+2019,Worldwide,August,35936297.0
+2019,Worldwide,September,38651660.0
+2019,Worldwide,October,35933944.0
+2019,Worldwide,November,35966736.0
+2019,Worldwide,December,36612004.0
+2020,Americas,January,7208217.0
+2020,Americas,February,7164971.0
+2020,Americas,March,7741609.0
+2020,Americas,April,6914549.0
+2020,Americas,May,7428932.0
+2020,Americas,June,8548798.0
+2020,Americas,July,7141254.0
+2020,Americas,August,7965060.0
+2020,Americas,September,8954991.0
+2020,Americas,October,8584019.0
+2020,Americas,November,9244994.0
+2020,Americas,December,8468687.0
+2020,Europe,January,3403141.0
+2020,Europe,February,3277345.0
+2020,Europe,March,3487521.0
+2020,Europe,April,2577468.0
+2020,Europe,May,2569559.0
+2020,Europe,June,2956656.0
+2020,Europe,July,2809945.0
+2020,Europe,August,3034217.0
+2020,Europe,September,3246947.0
+2020,Europe,October,3436705.0
+2020,Europe,November,3451950.0
+2020,Europe,December,3268226.0
+2020,Japan,January,2870732.0
+2020,Japan,February,2812583.0
+2020,Japan,March,2971588.0
+2020,Japan,April,2754748.0
+2020,Japan,May,2847058.0
+2020,Japan,June,3068459.0
+2020,Japan,July,3057783.0
+2020,Japan,August,2961663.0
+2020,Japan,September,3187563.0
+2020,Japan,October,3212584.0
+2020,Japan,November,3473308.0
+2020,Japan,December,3253104.0
+2020,Asia Pacific,January,19962835.0
+2020,Asia Pacific,February,20263191.0
+2020,Asia Pacific,March,23396261.0
+2020,Asia Pacific,April,19768480.0
+2020,Asia Pacific,May,21204500.0
+2020,Asia Pacific,June,22784216.0
+2020,Asia Pacific,July,21264572.0
+2020,Asia Pacific,August,23535404.0
+2020,Asia Pacific,September,26366866.0
+2020,Asia Pacific,October,23591528.0
+2020,Asia Pacific,November,23968190.0
+2020,Asia Pacific,December,24926381.0
+2020,Worldwide,January,33444925.0
+2020,Worldwide,February,33518090.0
+2020,Worldwide,March,37596979.0
+2020,Worldwide,April,32015245.0
+2020,Worldwide,May,34050049.0
+2020,Worldwide,June,37358129.0
+2020,Worldwide,July,34273554.0
+2020,Worldwide,August,37496344.0
+2020,Worldwide,September,41756367.0
+2020,Worldwide,October,38824836.0
+2020,Worldwide,November,40138442.0
+2020,Worldwide,December,39916398.0
+2021,Americas,January,7962853.0
+2021,Americas,February,7944497.0
+2021,Americas,March,8713428.0
+2021,Americas,April,8577456.0
+2021,Americas,May,9425094.0
+2021,Americas,June,10112446.0
+2021,Americas,July,9867186.0
+2021,Americas,August,10999640.0
+2021,Americas,September,11469892.0
+2021,Americas,October,10637996.0
+2021,Americas,November,12494591.0
+2021,Americas,December,13276254.0
+2021,Europe,January,3639027.0
+2021,Europe,February,3541287.0
+2021,Europe,March,3863775.0
+2021,Europe,April,3857550.0
+2021,Europe,May,3756545.0
+2021,Europe,June,4110824.0
+2021,Europe,July,3755895.0
+2021,Europe,August,3972094.0
+2021,Europe,September,4363932.0
+2021,Europe,October,4115587.0
+2021,Europe,November,4377977.0
+2021,Europe,December,4402284.0
+2021,Japan,January,3088228.0
+2021,Japan,February,3126323.0
+2021,Japan,March,3542104.0
+2021,Japan,April,3398497.0
+2021,Japan,May,3402255.0
+2021,Japan,June,3799530.0
+2021,Japan,July,3697571.0
+2021,Japan,August,3780267.0
+2021,Japan,September,4037858.0
+2021,Japan,October,3874468.0
+2021,Japan,November,3933647.0
+2021,Japan,December,4006415.0
+2021,Asia Pacific,January,25335323.0
+2021,Asia Pacific,February,24375852.0
+2021,Asia Pacific,March,28210096.0
+2021,Asia Pacific,April,26991977.0
+2021,Asia Pacific,May,27965749.0
+2021,Asia Pacific,June,29152469.0
+2021,Asia Pacific,July,27954754.0
+2021,Asia Pacific,August,30764843.0
+2021,Asia Pacific,September,30775278.0
+2021,Asia Pacific,October,28618835.0
+2021,Asia Pacific,November,31583574.0
+2021,Asia Pacific,December,31238491.0
+2021,Worldwide,January,40025431.0
+2021,Worldwide,February,38987959.0
+2021,Worldwide,March,44329403.0
+2021,Worldwide,April,42825480.0
+2021,Worldwide,May,44549643.0
+2021,Worldwide,June,47175269.0
+2021,Worldwide,July,45275406.0
+2021,Worldwide,August,49516844.0
+2021,Worldwide,September,50646960.0
+2021,Worldwide,October,47246886.0
+2021,Worldwide,November,52389789.0
+2021,Worldwide,December,52923444.0
+2022,Americas,January,10219295.0
+2022,Americas,February,11533221.0
+2022,Americas,March,12738970.0
+2022,Americas,April,11625499.0
+2022,Americas,May,12613681.0
+2022,Americas,June,12100136.0
+2022,Americas,July,10804439.0
+2022,Americas,August,11522933.0
+2022,Americas,September,13774165.0
+2022,Americas,October,11688909.0
+2022,Americas,November,11057371.0
+2022,Americas,December,11457333.0
+2022,Europe,January,4547539.0
+2022,Europe,February,4582790.0
+2022,Europe,March,4756086.0
+2022,Europe,April,4058609.0
+2022,Europe,May,4419662.0
+2022,Europe,June,4566618.0
+2022,Europe,July,4409117.0
+2022,Europe,August,4583540.0
+2022,Europe,September,4559000.0
+2022,Europe,October,4454559.0
+2022,Europe,November,4437356.0
+2022,Europe,December,4478233.0
+2022,Japan,January,3726176.0
+2022,Japan,February,3847033.0
+2022,Japan,March,4169438.0
+2022,Japan,April,3941630.0
+2022,Japan,May,4292541.0
+2022,Japan,June,4023622.0
+2022,Japan,July,4013737.0
+2022,Japan,August,4066435.0
+2022,Japan,September,4079358.0
+2022,Japan,October,4030426.0
+2022,Japan,November,3948385.0
+2022,Japan,December,4019463.0
+2022,Asia Pacific,January,28400151.0
+2022,Asia Pacific,February,30343718.0
+2022,Asia Pacific,March,32884730.0
+2022,Asia Pacific,April,28333137.0
+2022,Asia Pacific,May,31122857.0
+2022,Asia Pacific,June,29406183.0
+2022,Asia Pacific,July,25228516.0
+2022,Asia Pacific,August,26987299.0
+2022,Asia Pacific,September,26985699.0
+2022,Asia Pacific,October,24097271.0
+2022,Asia Pacific,November,23626157.0
+2022,Asia Pacific,December,23521171.0
+2022,Worldwide,January,46893161.0
+2022,Worldwide,February,50306762.0
+2022,Worldwide,March,54549224.0
+2022,Worldwide,April,47958875.0
+2022,Worldwide,May,52448741.0
+2022,Worldwide,June,50096559.0
+2022,Worldwide,July,44455809.0
+2022,Worldwide,August,47160207.0
+2022,Worldwide,September,49398222.0
+2022,Worldwide,October,44271165.0
+2022,Worldwide,November,43069269.0
+2022,Worldwide,December,43476200.0
+2023,Americas,January,9002994.0
+2023,Americas,February,9395490.0
+2023,Americas,March,10426524.0
+2023,Americas,April,8806483.0
+2023,Americas,May,9946461.0
+2023,Americas,June,12298284.0
+2023,Americas,July,10751171.0
+2023,Americas,August,11475553.0
+2023,Americas,September,13139106.0
+2023,Americas,October,11971442.0
+2023,Americas,November,13434747.0
+2023,Americas,December,13729063.0
+2023,Europe,January,4537556.0
+2023,Europe,February,4408022.0
+2023,Europe,March,4845999.0
+2023,Europe,April,4468853.0
+2023,Europe,May,4783517.0
+2023,Europe,June,4870674.0
+2023,Europe,July,4532194.0
+2023,Europe,August,4637191.0
+2023,Europe,September,5293609.0
+2023,Europe,October,4455602.0
+2023,Europe,November,4262038.0
+2023,Europe,December,4667519.0
+2023,Japan,January,3781574.0
+2023,Japan,February,3912308.0
+2023,Japan,March,3891443.0
+2023,Japan,April,3873144.0
+2023,Japan,May,4000470.0
+2023,Japan,June,4048502.0
+2023,Japan,July,3750443.0
+2023,Japan,August,3952244.0
+2023,Japan,September,4022239.0
+2023,Japan,October,3827818.0
+2023,Japan,November,3838010.0
+2023,Japan,December,3853298.0
+2023,Asia Pacific,January,20140251.0
+2023,Asia Pacific,February,20447421.0
+2023,Asia Pacific,March,24721530.0
+2023,Asia Pacific,April,21113795.0
+2023,Asia Pacific,May,22683446.0
+2023,Asia Pacific,June,25820601.0
+2023,Asia Pacific,July,22201592.0
+2023,Asia Pacific,August,23802074.0
+2023,Asia Pacific,September,27117003.0
+2023,Asia Pacific,October,26125327.0
+2023,Asia Pacific,November,26452611.0
+2023,Asia Pacific,December,29368189.0
+2023,Worldwide,January,37462375.0
+2023,Worldwide,February,38163241.0
+2023,Worldwide,March,43885496.0
+2023,Worldwide,April,38262275.0
+2023,Worldwide,May,41413894.0
+2023,Worldwide,June,47038061.0
+2023,Worldwide,July,41235400.0
+2023,Worldwide,August,43867062.0
+2023,Worldwide,September,49571957.0
+2023,Worldwide,October,46380189.0
+2023,Worldwide,November,47987406.0
+2023,Worldwide,December,51618069.0
+2024,Americas,January,11725442.0
+2024,Americas,February,12242370.0
+2024,Americas,March,14370787.0
+2024,Americas,April,12525457.0
+2024,Americas,May,14786593.0
+2024,Americas,June,17012422.0
+2024,Americas,July,14423623.0
+2024,Americas,August,18244138.0
+2024,Americas,September,19066463.0
+2024,Americas,October,18727383.0
+2024,Americas,November,20710242.0
+2024,Americas,December,21287587.0
+2024,Europe,January,4211671.0
+2024,Europe,February,4211986.0
+2024,Europe,March,4549024.0
+2024,Europe,April,4020870.0
+2024,Europe,May,4085829.0
+2024,Europe,June,4426970.0
+2024,Europe,July,3966809.0
+2024,Europe,August,4379528.0
+2024,Europe,September,4933134.0
+2024,Europe,October,4139333.0
+2024,Europe,November,4226356.0
+2024,Europe,December,4098708.0
+2024,Japan,January,3392699.0
+2024,Japan,February,3553205.0
+2024,Japan,March,3736395.0
+2024,Japan,April,3599206.0
+2024,Japan,May,3789036.0
+2024,Japan,June,3938601.0
+2024,Japan,July,3983817.0
+2024,Japan,August,4074354.0
+2024,Japan,September,4571058.0
+2024,Japan,October,4049766.0
+2024,Japan,November,3922863.0
+2024,Japan,December,4128287.0
+2024,Asia Pacific,January,24932559.0
+2024,Asia Pacific,February,24814021.0
+2024,Asia Pacific,March,29394303.0
+2024,Asia Pacific,April,24617367.0
+2024,Asia Pacific,May,28222927.0
+2024,Asia Pacific,June,29282974.0
+2024,Asia Pacific,July,26513686.0
+2024,Asia Pacific,August,29650675.0
+2024,Asia Pacific,September,32740166.0
+2024,Asia Pacific,October,26879887.0
+2024,Asia Pacific,November,30089659.0
+2024,Asia Pacific,December,30298370.0
+2024,Worldwide,January,44262371.0
+2024,Worldwide,February,44821582.0
+2024,Worldwide,March,52050509.0
+2024,Worldwide,April,44762900.0
+2024,Worldwide,May,50884385.0
+2024,Worldwide,June,54660967.0
+2024,Worldwide,July,48887935.0
+2024,Worldwide,August,56348695.0
+2024,Worldwide,September,61310821.0
+2024,Worldwide,October,53796369.0
+2024,Worldwide,November,58949120.0
+2024,Worldwide,December,59812952.0
+2025,Americas,January,16648460.0
+2025,Americas,February,18028610.0
+2025,Americas,March,20713691.0
+2025,Americas,April,16088850.0
+2025,Americas,May,18569494.0
+2025,Americas,June,20768301.0
+2025,Americas,July,20871700.0
+2025,Americas,August,21419182.0
+2025,Americas,September,25145834.0
+2025,Americas,October,23591451.0
+2025,Americas,November,25936756.0
+2025,Americas,December,28694121.0
+2025,Europe,January,3986378.0
+2025,Europe,February,3937454.0
+2025,Europe,March,4770882.0
+2025,Europe,April,4119821.0
+2025,Europe,May,4367810.0
+2025,Europe,June,4645944.0
+2025,Europe,July,4186096.0
+2025,Europe,August,4523945.0
+2025,Europe,September,5412979.0
+2025,Europe,October,4706092.0
+2025,Europe,November,4941819.0
+2025,Europe,December,5094834.0
+2025,Japan,January,3659549.0
+2025,Japan,February,3563507.0
+2025,Japan,March,4089901.0
+2025,Japan,April,3528341.0
+2025,Japan,May,3491752.0
+2025,Japan,June,3790115.0
+2025,Japan,July,3708201.0
+2025,Japan,August,3731500.0
+2025,Japan,September,3977057.0
+2025,Japan,October,3835430.0
+2025,Japan,November,3688326.0
+2025,Japan,December,3659540.0
+2025,Asia Pacific,January,26473983.0
+2025,Asia Pacific,February,28544613.0
+2025,Asia Pacific,March,32197775.0
+2025,Asia Pacific,April,31356653.0
+2025,Asia Pacific,May,33973437.0
+2025,Asia Pacific,June,35651258.0
+2025,Asia Pacific,July,33334793.0
+2025,Asia Pacific,August,39499033.0
+2025,Asia Pacific,September,43984832.0
+2025,Asia Pacific,October,39514299.0
+2025,Asia Pacific,November,47316124.0
+2025,Asia Pacific,December,47899782.0
+2025,Worldwide,January,50768370.0
+2025,Worldwide,February,54074184.0
+2025,Worldwide,March,61772249.0
+2025,Worldwide,April,55093665.0
+2025,Worldwide,May,60402493.0
+2025,Worldwide,June,64855618.0
+2025,Worldwide,July,62100790.0
+2025,Worldwide,August,69173660.0
+2025,Worldwide,September,78520702.0
+2025,Worldwide,October,71647272.0
+2025,Worldwide,November,81883025.0
+2025,Worldwide,December,85348277.0
+2026,Americas,January,24625051.0
+2026,Americas,February,36199755.0
+2026,Americas,March,40595854.0
+2026,Americas,April,41534424.0
+2026,Americas,May,46422927.0
+2026,Europe,January,5506393.0
+2026,Europe,February,6560532.0
+2026,Europe,March,6530959.0
+2026,Europe,April,6754705.0
+2026,Europe,May,8014839.0
+2026,Japan,January,3650632.0
+2026,Japan,February,4032095.0
+2026,Japan,March,4467292.0
+2026,Japan,April,4428604.0
+2026,Japan,May,4857631.0
+2026,Asia Pacific,January,46998751.0
+2026,Asia Pacific,February,54762826.0
+2026,Asia Pacific,March,64615492.0
+2026,Asia Pacific,April,60958983.0
+2026,Asia Pacific,May,72642332.0
+2026,Worldwide,January,80780827.0
+2026,Worldwide,February,101555208.0
+2026,Worldwide,March,116209597.0
+2026,Worldwide,April,113676716.0
+2026,Worldwide,May,131937729.0

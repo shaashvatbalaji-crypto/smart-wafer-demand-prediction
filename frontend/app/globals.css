@@ -1,0 +1,297 @@
+@import "tailwindcss";
+
+/* ===========================
+   INSIQ Enterprise Theme
+   =========================== */
+
+:root {
+  --bg: #f7f7f5;
+  --surface: #ffffff;
+  --surface-2: #fbfbfa;
+
+  --text: #111111;
+  --text-secondary: #6b6b6b;
+  --text-muted: #8a8a8a;
+
+  --primary: #2563eb;
+  --primary-soft: #eff6ff;
+  --border: #e8e8e5;
+
+  --shadow-sm: 0 6px 18px rgba(15, 23, 42, 0.05);
+  --shadow-md: 0 20px 50px rgba(15, 23, 42, 0.08);
+  --shadow-lg: 0 35px 80px rgba(15, 23, 42, 0.12);
+
+  --radius-xl: 32px;
+  --radius-lg: 24px;
+  --radius-md: 18px;
+}
+
+/* ------------------------- */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-geist-sans), sans-serif;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ===========================
+      Background
+=========================== */
+
+.predict-bg {
+  position: relative;
+  min-height: 100vh;
+  background: var(--bg);
+}
+
+.predict-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background-image:
+      linear-gradient(rgba(0,0,0,.035) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,0,0,.035) 1px, transparent 1px);
+
+  background-size: 80px 80px;
+
+  opacity: .35;
+
+  pointer-events: none;
+}
+
+.predict-bg::after{
+  content:"";
+  position:absolute;
+  inset:0;
+
+  background:
+      radial-gradient(circle at 20% 20%,rgba(37,99,235,.08),transparent 35%),
+      radial-gradient(circle at 80% 70%,rgba(37,99,235,.05),transparent 30%);
+
+  pointer-events:none;
+}
+
+/* ===========================
+      Layout
+=========================== */
+
+.workspace{
+  width:min(1500px,92%);
+  margin:auto;
+  padding-top:70px;
+  padding-bottom:80px;
+}
+
+.hero-space{
+  margin-top:120px;
+  margin-bottom:120px;
+}
+
+.section-space{
+  margin-top:80px;
+}
+
+/* ===========================
+      Typography
+=========================== */
+
+.eyebrow{
+  color:var(--primary);
+  text-transform:uppercase;
+  letter-spacing:.28em;
+  font-size:.78rem;
+  font-weight:600;
+}
+
+.hero-title{
+
+  font-size:clamp(4rem,8vw,7rem);
+
+  line-height:.95;
+
+  font-weight:600;
+
+  letter-spacing:-0.07em;
+
+  max-width:950px;
+}
+
+.hero-body{
+
+  margin-top:28px;
+
+  max-width:720px;
+
+  color:var(--text-secondary);
+
+  font-size:1.22rem;
+
+  line-height:1.8;
+}
+
+/* ===========================
+      Cards
+=========================== */
+
+.surface{
+
+  background:white;
+
+  border:1px solid var(--border);
+
+  border-radius:var(--radius-xl);
+
+  box-shadow:var(--shadow-sm);
+
+  transition:.45s ease;
+}
+
+.surface:hover{
+
+  transform:translateY(-6px);
+
+  box-shadow:var(--shadow-md);
+}
+
+/* ===========================
+      Button
+=========================== */
+
+.primary-button{
+
+display:inline-flex;
+
+align-items:center;
+
+gap:.8rem;
+
+padding:18px 34px;
+
+border-radius:999px;
+
+background:#111;
+
+color:white;
+
+font-weight:600;
+
+transition:.35s ease;
+
+cursor:pointer;
+}
+
+.primary-button:hover{
+
+transform:translateY(-2px) scale(1.02);
+
+box-shadow:
+
+0 18px 45px rgba(0,0,0,.18);
+}
+
+/* ===========================
+      Badge
+=========================== */
+
+.badge{
+
+display:inline-flex;
+
+align-items:center;
+
+gap:.55rem;
+
+padding:10px 18px;
+
+border-radius:999px;
+
+background:white;
+
+border:1px solid var(--border);
+
+font-size:.85rem;
+
+font-weight:500;
+
+box-shadow:var(--shadow-sm);
+}
+
+/* ===========================
+      Glass Navigation
+=========================== */
+
+.glass-nav{
+
+backdrop-filter:blur(30px);
+
+background:rgba(255,255,255,.78);
+
+border:1px solid rgba(255,255,255,.65);
+
+box-shadow:var(--shadow-sm);
+}
+
+/* ===========================
+      Mouse Spotlight
+=========================== */
+
+.mouse-light{
+
+position:fixed;
+
+width:420px;
+
+height:420px;
+
+border-radius:50%;
+
+background:
+
+radial-gradient(circle,
+rgba(37,99,235,.09),
+transparent 70%);
+
+pointer-events:none;
+
+mix-blend-mode:multiply;
+
+filter:blur(35px);
+
+z-index:0;
+}
+
+/* ===========================
+      Animations
+=========================== */
+
+.fade-up{
+
+animation:fadeUp .8s ease both;
+}
+
+@keyframes fadeUp{
+
+from{
+
+opacity:0;
+
+transform:
+
+translateY(45px);
+}
+
+to{
+
+opacity:1;
+
+transform:none;
+}
+}

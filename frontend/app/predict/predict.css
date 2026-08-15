@@ -1,0 +1,395 @@
+/* ==========================================================
+   INSIQ Enterprise Design System
+   Foundation
+========================================================== */
+
+:root{
+
+  /* Colors */
+
+  --bg:#F7F7F5;
+  --surface:#FFFFFF;
+  --surface-soft:#FCFCFB;
+
+  --text:#111111;
+  --text-secondary:#6B7280;
+  --text-light:#9CA3AF;
+
+  --primary:#0A84FF;
+  --primary-light:#60A5FA;
+
+  --border:#E7E7E5;
+
+  /* Radius */
+
+  --radius-sm:16px;
+  --radius-md:24px;
+  --radius-lg:32px;
+
+  /* Shadows */
+
+  --shadow-sm:
+  0 8px 24px rgba(17,17,17,.04);
+
+  --shadow-md:
+  0 18px 48px rgba(17,17,17,.08);
+
+  --shadow-lg:
+  0 40px 80px rgba(17,17,17,.12);
+
+}
+
+
+/* ==========================================================
+   Prediction Page
+========================================================== */
+
+.predict-bg{
+
+  min-height:100vh;
+
+  background:var(--bg);
+
+  position:relative;
+
+  overflow:hidden;
+
+}
+
+
+/* ==========================================================
+   Grid Background
+========================================================== */
+
+.predict-bg::before{
+
+  content:"";
+
+  position:absolute;
+
+  inset:0;
+
+  background-image:
+
+    linear-gradient(rgba(17,17,17,.03) 1px,transparent 1px),
+
+    linear-gradient(
+      90deg,
+      rgba(17,17,17,.03) 1px,
+      transparent 1px
+    );
+
+  background-size:84px 84px;
+
+  pointer-events:none;
+
+}
+
+
+/* ==========================================================
+   Glow
+========================================================== */
+
+.predict-bg::after{
+
+  content:"";
+
+  position:absolute;
+
+  top:-250px;
+
+  right:-250px;
+
+  width:900px;
+
+  height:900px;
+
+  border-radius:999px;
+
+  background:
+
+  radial-gradient(
+
+    circle,
+
+    rgba(10,132,255,.09),
+
+    transparent 70%
+
+  );
+
+  filter:blur(120px);
+
+  pointer-events:none;
+
+}
+
+
+/* ==========================================================
+   Workspace
+========================================================== */
+
+.workspace{
+
+  width:min(1500px,92%);
+
+  margin:auto;
+
+  position:relative;
+
+  z-index:2;
+
+}
+
+
+/* ==========================================================
+   Hero
+========================================================== */
+
+.hero-full{
+
+  min-height:100vh;
+
+  display:flex;
+
+  align-items:center;
+
+  padding:90px 0;
+
+}
+
+
+/* ==========================================================
+   Typography
+========================================================== */
+
+.eyebrow{
+
+  font-size:.75rem;
+
+  font-weight:600;
+
+  text-transform:uppercase;
+
+  letter-spacing:.28em;
+
+  color:var(--primary);
+
+}
+
+.hero-title{
+
+  font-size:clamp(4.5rem,8vw,8rem);
+
+  font-weight:600;
+
+  letter-spacing:-0.08em;
+
+  line-height:.88;
+
+  color:var(--text);
+
+}
+
+.hero-gradient{
+
+  background:
+
+  linear-gradient(
+
+    135deg,
+
+    #111111,
+
+    #2A4FA8,
+
+    #0A84FF
+
+  );
+
+  -webkit-background-clip:text;
+
+  -webkit-text-fill-color:transparent;
+
+  background-clip:text;
+
+}
+
+.hero-body{
+
+  margin-top:34px;
+
+  max-width:620px;
+
+  color:var(--text-secondary);
+
+  font-size:1.12rem;
+
+  line-height:1.9;
+
+}
+
+
+/* ==========================================================
+   Cards
+========================================================== */
+
+.surface{
+
+  background:white;
+
+  border:1px solid var(--border);
+
+  border-radius:28px;
+
+  box-shadow:var(--shadow-sm);
+
+  transition:.35s;
+
+}
+
+.surface:hover{
+
+  transform:translateY(-4px);
+
+  box-shadow:var(--shadow-md);
+
+}
+
+
+/* ==========================================================
+   Buttons
+========================================================== */
+
+.primary-button{
+
+  display:inline-flex;
+
+  align-items:center;
+
+  gap:14px;
+
+  padding:18px 34px;
+
+  border:none;
+
+  border-radius:999px;
+
+  background:#111111;
+
+  color:white;
+
+  font-weight:600;
+
+  cursor:pointer;
+
+  transition:.35s;
+
+  box-shadow:
+
+  0 12px 35px rgba(17,17,17,.16);
+
+}
+
+.primary-button:hover{
+
+  transform:
+
+  translateY(-3px)
+
+  scale(1.02);
+
+  box-shadow:
+
+  0 20px 55px rgba(10,132,255,.18);
+
+}
+
+
+/* ==========================================================
+   Badges
+========================================================== */
+
+.badge{
+
+  display:inline-flex;
+
+  align-items:center;
+
+  gap:.7rem;
+
+  padding:11px 18px;
+
+  border-radius:999px;
+
+  background:rgba(255,255,255,.82);
+
+  backdrop-filter:blur(18px);
+
+  border:1px solid rgba(0,0,0,.05);
+
+  box-shadow:var(--shadow-sm);
+
+  font-size:.88rem;
+
+  font-weight:500;
+
+}
+
+
+/* ==========================================================
+   Metrics
+========================================================== */
+
+.metric-value{
+
+  font-size:2.2rem;
+
+  font-weight:600;
+
+  letter-spacing:-.05em;
+
+}
+
+.metric-label{
+
+  margin-top:8px;
+
+  color:var(--text-secondary);
+
+  font-size:.92rem;
+
+}
+
+
+/* ==========================================================
+   Responsive
+========================================================== */
+
+@media(max-width:900px){
+
+.hero-full{
+
+padding:120px 0 80px;
+
+}
+
+.hero-title{
+
+font-size:4rem;
+
+}
+
+.hero-body{
+
+font-size:1rem;
+
+}
+
+.workspace{
+
+width:92%;
+
+}
+
+}
