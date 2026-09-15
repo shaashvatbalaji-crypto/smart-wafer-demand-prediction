@@ -52,7 +52,7 @@ const menuSections = [
         description:
           "Screen the full coverage universe and drill into drivers.",
         icon: LayoutDashboard,
-        href: "/predict",
+        href: "/predict/dashboard",
         shortcut: "3",
       },
       {
@@ -106,7 +106,7 @@ const menuSections = [
         label: "Exit",
         description: "Close the session.",
         icon: LogOut,
-        href: "/",
+        href: "/exit",
         shortcut: "Esc",
       },
     ],

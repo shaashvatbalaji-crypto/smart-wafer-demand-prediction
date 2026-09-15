@@ -85,8 +85,9 @@ export default function PredictionHistory() {
       setLoading(true);
       setError("");
 
+      const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
       const response = await fetch(
-        "http://127.0.0.1:5000/api/predictions/history",
+        `${API_BASE}/api/predictions/history`,
         {
           method: "GET",
           cache: "no-store",
