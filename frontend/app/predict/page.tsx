@@ -1,13 +1,12 @@
 "use client";
+
 import "./predict.css";
-
-
-import PredictHero from "@/components/predict/PredictHero";
+import MainMenu from "@/components/predict/MainMenu";
 
 export default function PredictPage() {
   return (
     <main className="predict-bg">
-      <PredictHero />
+      <MainMenu />
     </main>
   );
 }

@@ -12,23 +12,46 @@ from database.company_repository import (
 
 def get_or_create_company(startup):
     """
-    Returns the existing company if found.
-    Otherwise creates a new startup company.
+    Find an existing startup company or create a new one.
+
+    Returns
+    -------
+    dict
+        {
+            "company": company_record,
+            "is_new": True / False
+        }
     """
 
-    # Search by company name
-    company = find_company_by_name(startup["company"])
+    company_name = startup["company"].strip()
 
-    if company:
+    # ==========================================================
+    # CHECK IF COMPANY ALREADY EXISTS
+    # ==========================================================
 
-        print(f"\n✓ Existing Company Found ({company['company_id']})")
+    existing_company = find_company_by_name(
+        company_name
+    )
 
-        return company
+    if existing_company:
 
-    # Build company object
+        print(
+            f"\n✓ Existing Company Found "
+            f"({existing_company['company_id']})"
+        )
+
+        return {
+            "company": existing_company,
+            "is_new": False
+        }
+
+    # ==========================================================
+    # CREATE NEW STARTUP COMPANY
+    # ==========================================================
+
     company_data = {
 
-        "company_name": startup["company"],
+        "company_name": company_name,
 
         "company_type": "Startup",
 
@@ -40,9 +63,37 @@ def get_or_create_company(startup):
 
     }
 
-    company_id = create_company(company_data)
+    company_id = create_company(
+        company_data
+    )
 
-    print(f"\n✓ New Company Created ({company_id})")
+    if company_id is None:
 
-    # Return the newly created company
-    return find_company_by_name(startup["company"])
+        raise Exception(
+            "Unable to create startup company."
+        )
+
+    print(
+        f"\n✓ New Company Created "
+        f"({company_id})"
+    )
+
+    # ==========================================================
+    # GET THE NEWLY CREATED COMPANY
+    # ==========================================================
+
+    new_company = find_company_by_name(
+        company_name
+    )
+
+    if new_company is None:
+
+        raise Exception(
+            "Company was created but could not "
+            "be retrieved from database."
+        )
+
+    return {
+        "company": new_company,
+        "is_new": True
+    }

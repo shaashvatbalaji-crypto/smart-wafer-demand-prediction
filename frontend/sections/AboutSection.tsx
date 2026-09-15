@@ -2,7 +2,6 @@
 
 import IntelligenceSnapshot from "@/components/about/IntelligenceSnapshot";
 import AboutIntro from "@/components/about/AboutIntro";
-import WhyInsiqFlow from "@/components/about/WhyInsiqFlow";
 import MissionStatement from "@/components/about/MissionStatement";
 import IntelligenceInputs from "@/components/about/IntelligenceInputs";
 import BusinessValueCards from "@/components/about/BusinessValueCards";
@@ -51,9 +50,6 @@ export default function AboutSection() {
 
         {/* 01 — Introduction */}
         <AboutIntro />
-
-        {/* 02 — Why INSIQ Exists */}
-        <WhyInsiqFlow />
 
         {/* 03 — Our Mission */}
         <MissionStatement />

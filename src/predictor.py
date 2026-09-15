@@ -14,7 +14,7 @@ from src.feature_engineering import engineer_features
 
 
 # ==========================================================
-# Global Variables (Loaded Only Once)
+# Global Variables
 # ==========================================================
 
 model = None
@@ -29,7 +29,10 @@ feature_columns = None
 
 def load_model():
     """
-    Loads the trained AI model only once.
+    Loads all trained prediction components.
+
+    Each component is checked independently so that a
+    partially initialized model state cannot occur.
     """
 
     global model
@@ -37,28 +40,52 @@ def load_model():
     global selected_mask
     global feature_columns
 
+    # ------------------------------------------------------
+    # Model
+    # ------------------------------------------------------
+
     if model is None:
 
         print("=" * 60)
         print("Loading AI Prediction Engine...")
         print("=" * 60)
 
-        model = joblib.load("models/catboost_model.pkl")
+        model = joblib.load(
+            "models/catboost_model.pkl"
+        )
+
+    # ------------------------------------------------------
+    # Preprocessor
+    # ------------------------------------------------------
+
+    if preprocessor is None:
 
         preprocessor = joblib.load(
             "models/preprocessor.pkl"
         )
 
+    # ------------------------------------------------------
+    # Selected Feature Mask
+    # ------------------------------------------------------
+
+    if selected_mask is None:
+
         selected_mask = joblib.load(
             "models/selected_mask.pkl"
         )
+
+    # ------------------------------------------------------
+    # Raw Feature Columns
+    # ------------------------------------------------------
+
+    if feature_columns is None:
 
         feature_columns = joblib.load(
             "models/raw_feature_columns.pkl"
         )
 
-        print("✓ AI Engine Ready!")
-        print()
+    print("✓ AI Engine Ready!")
+    print()
 
 
 # ==========================================================
@@ -67,7 +94,7 @@ def load_model():
 
 def predict_company(company_data):
     """
-    Predict monthly wafer capacity.
+    Predict monthly wafer demand.
 
     Parameters
     ----------
@@ -78,17 +105,22 @@ def predict_company(company_data):
     float
     """
 
-    # Load model if not already loaded
+    # ------------------------------------------------------
+    # Load all required model components
+    # ------------------------------------------------------
+
     load_model()
 
     # ------------------------------------------------------
     # Feature Engineering
     # ------------------------------------------------------
 
-    df = engineer_features(company_data)
+    df = engineer_features(
+        company_data
+    )
 
     # ------------------------------------------------------
-    # Arrange Columns Exactly Like Training
+    # Arrange columns exactly like training
     # ------------------------------------------------------
 
     df = df.reindex(
@@ -100,19 +132,26 @@ def predict_company(company_data):
     # Preprocessing
     # ------------------------------------------------------
 
-    processed = preprocessor.transform(df)
+    processed = preprocessor.transform(
+        df
+    )
 
     # ------------------------------------------------------
     # Feature Selection
     # ------------------------------------------------------
 
-    selected = processed[:, selected_mask]
+    selected = processed[
+        :,
+        selected_mask
+    ]
 
     # ------------------------------------------------------
     # Prediction
     # ------------------------------------------------------
 
-    prediction = model.predict(selected)[0]
+    prediction = model.predict(
+        selected
+    )[0]
 
     return float(prediction)
 
@@ -128,13 +167,25 @@ def get_feature_importance():
 
     load_model()
 
-    feature_names = preprocessor.get_feature_names_out()
+    feature_names = (
+        preprocessor
+        .get_feature_names_out()
+    )
 
-    selected_features = feature_names[selected_mask]
+    selected_features = (
+        feature_names[selected_mask]
+    )
 
-    importance = model.get_feature_importance()
+    importance = (
+        model.get_feature_importance()
+    )
 
-    return list(zip(selected_features, importance))
+    return list(
+        zip(
+            selected_features,
+            importance
+        )
+    )
 
 
 # ==========================================================
@@ -148,18 +199,37 @@ def model_information():
 
     load_model()
 
-    feature_names = preprocessor.get_feature_names_out()
+    feature_names = (
+        preprocessor
+        .get_feature_names_out()
+    )
 
-    selected_features = feature_names[selected_mask]
+    selected_features = (
+        feature_names[selected_mask]
+    )
 
     print("=" * 60)
     print("MODEL INFORMATION")
     print("=" * 60)
 
-    print(f"Model              : CatBoost Regressor")
-    print(f"Encoded Features   : {len(feature_names)}")
-    print(f"Selected Features  : {len(selected_features)}")
-    print(f"Prediction Target  : Monthly Wafer Capacity")
+    print(
+        "Model              : CatBoost Regressor"
+    )
+
+    print(
+        f"Encoded Features   : "
+        f"{len(feature_names)}"
+    )
+
+    print(
+        f"Selected Features  : "
+        f"{len(selected_features)}"
+    )
+
+    print(
+        "Prediction Target  : "
+        "Monthly Wafer Capacity"
+    )
 
     print("=" * 60)
 
