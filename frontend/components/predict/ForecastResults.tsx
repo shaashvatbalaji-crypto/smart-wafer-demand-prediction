@@ -7,7 +7,7 @@ import {
   Activity,
 } from "lucide-react";
 
-export default function ForecastResults() {
+export default function ForecastResults({ data }: { data?: any } = {}) {
   return (
     <section className="mx-auto mt-20 max-w-7xl">
 

@@ -116,7 +116,7 @@ export default function ExistingCompanyPrediction() {
     setShowSaveModal(false);
 
     try {
-      const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+      const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8001";
       const response = await fetch(
         `${API_BASE}/api/company/lookup`,
         {
@@ -482,7 +482,7 @@ export default function ExistingCompanyPrediction() {
       // Send request to Flask
       // ------------------------------------------------------
 
-      const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+      const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8001";
       const response = await fetch(
         `${API_BASE}/api/company/predict`,
         {
@@ -754,7 +754,7 @@ export default function ExistingCompanyPrediction() {
       // SEND TO BACKEND
       // ------------------------------------------------------
 
-      const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+      const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8001";
       const response = await fetch(
         `${API_BASE}/api/company/save`,
         {

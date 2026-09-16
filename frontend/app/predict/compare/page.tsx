@@ -1456,7 +1456,7 @@ export default function ComparePredictionsPage() {
                     )}
 
                     {/* Smart Connector / Leader Lines for Repositioned Labels */}
-                    {scatterStats.placedLabels.map((lbl: any) =>
+                    {scatterStats.placedLabels?.map((lbl: any) =>
                       lbl.needsLeader ? (
                         <line
                           key={`leader_${lbl.id}`}
@@ -1501,7 +1501,7 @@ export default function ComparePredictionsPage() {
                     ))}
 
                     {/* Non-Overlapping Collision-Free Label Boxes */}
-                    {scatterStats.placedLabels.map((lbl: any) => (
+                    {scatterStats.placedLabels?.map((lbl: any) => (
                       <g key={`lbl_box_${lbl.id}`}>
                         <rect
                           x={lbl.labelX}

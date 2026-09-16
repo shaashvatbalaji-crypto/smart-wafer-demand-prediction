@@ -21,7 +21,7 @@ export default function PredictionWorkspace() {
       // --------------------------------------------------
       // TEMPORARY SIMULATION
       // Later this becomes:
-      // const response = await fetch("http://127.0.0.1:8000/predict")
+      // const response = await fetch("http://127.0.0.1:8001/predict")
       // --------------------------------------------------
 
       await new Promise((resolve) => setTimeout(resolve, 6000));

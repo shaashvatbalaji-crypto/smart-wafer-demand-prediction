@@ -84,10 +84,8 @@ type HistoryRecord = {
 async function safeApiFetch(endpoint: string, options?: RequestInit) {
   const baseUrls = [
     API_BASE_URL,
-    "http://127.0.0.1:5000",
-    "http://localhost:5000",
-    "http://127.0.0.1:8000",
-    "http://localhost:8000",
+    "http://127.0.0.1:8001",
+    "http://localhost:8001",
     "",
   ];
 
